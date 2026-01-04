@@ -1,0 +1,65 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Edap&version=1%2E48%2E261&module=fleet%2Eplugins%2Edap%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "b7cf7af4592ee8a02e390390f80d2e97a8088dfc03adc0143a1ae27cf39eef47"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABhmbGVldC5wbHVnaW5zLmRhcC5jb21tb24TAAUBAAxmbGVldC5jb21tb24TAAcBABpmbGVldC5wbHVnaW5zLmRlYnVnLmNvbW1vbhMACQEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMACwEAD2ZsZWV0LnJoaXpvbWVkYhMADQEACWphdmEuYmFzZRMADwEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAEgEAHGZsZWV0L3BsdWdpbnMvZGFwL2NvbW1vbi9hcGkUABQBAB1mbGVldC9wbHVnaW5zL2RhcC9jb21tb24vaW1wbBQAFgEAEWZsZWV0Lm1vZHVsZXMuanZtEwAYAQAaZmxlZXQucGx1Z2lucy5kYXAuZnJvbnRlbmQTABoBABtmbGVldC5wbHVnaW5zLmRhcC53b3Jrc3BhY2UTABwBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAHgAAAEgABgAAAAAABgAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQgAAAEQATAAAAAAACABUAAAAAABcAAAAEABkAGwAdAA4AAAAAAAAAHwAAAAYAAgAVABc="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.dap.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Edap&version=1%2E48%2E261&module=fleet%2Eplugins%2Edap%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "a8d1580b112accc9123ad914adf6830a72876dacb2519cdb20bcaeaa044e1fea"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABpmbGVldC5wbHVnaW5zLmRhcC5mcm9udGVuZBMABQEAEWZsZWV0LmZyb250ZW5kLnVpEwAHAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAAkBABhmbGVldC5wbHVnaW5zLmRhcC5jb21tb24TAAsBABhmbGVldC5wbHVnaW5zLnJ1bi5jb21tb24TAA0BABpmbGVldC5wbHVnaW5zLnJ1bi5mcm9udGVuZBMADwEACWphdmEuYmFzZRMAEQEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAUAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABYBABpmbGVldC9wbHVnaW5zL2RhcC9mcm9udGVuZBQAGAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAGgEAJGZsZWV0L3BsdWdpbnMvZGFwL2Zyb250ZW5kL0RhcFBsdWdpbgcAHAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAeAAAATAAGAAAAAAAIAAgAAAAAAAoAAAAAAAwAIAAAAA4AAAAAABAAAAAAABKAAAATABUAAAAAABcAAAAAAAEAGQAAAAAAAAAAAAEAGwABAB0AHwAAAAQAAQAZ"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.dap.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Edap&version=1%2E48%2E261&module=fleet%2Eplugins%2Edap%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "2d1e83fbf7213a30abc569b8e14c782c489b1028078652f3acbb947427368766"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ASAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLmRhcC53b3Jrc3BhY2UTAAUBABFjb20uZ29vZ2xlLmNvbW1vbhMABwEACjMzLjQuNS1qcmUBAA9jb20uZ29vZ2xlLmdzb24TAAoBAAYyLjEyLjEBABRmbGVldC5rZXJuZWwucGx1Z2lucxMADQEAGWZsZWV0Lm11bHRpcGxhdGZvcm0uc2hpbXMTAA8BABtmbGVldC5wbHVnaW5zLmNvZGUucHJvdG9jb2wTABEBABhmbGVldC5wbHVnaW5zLmRhcC5jb21tb24TABMBABpmbGVldC5wbHVnaW5zLmRlYnVnLmNvbW1vbhMAFQEAHGZsZWV0LnBsdWdpbnMuZGVidWcucHJvdG9jb2wTABcBAB1mbGVldC5wbHVnaW5zLmRlYnVnLndvcmtzcGFjZRMAGQEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMAGwEAG2ZsZWV0LnBsdWdpbnMucnVuLndvcmtzcGFjZRMAHQEAEWZsZWV0LnByZWZlcmVuY2VzEwAfAQAPZmxlZXQucmhpem9tZWRiEwAhAQATZmxlZXQuc2NoZW1hLmNvbW1vbhMAIwEAD2ZsZWV0LnV0aWwuY29yZRMAJQEAEmZsZWV0LnV0aWwubmV0d29yaxMAJwEAD2ZsZWV0LndvcmtzcGFjZRMAKQEACWphdmEuYmFzZRMAKwEABzE3LjAuMTQBAAhqYXZhLnhtbBMALgEADWtvdGxpbi5zdGRsaWITADABABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAMgEAGmtvdGxpbnguc2VyaWFsaXphdGlvbi5qc29uEwA0AQARb3JnLmVjbGlwc2UubHNwNGoTADYBABdvcmcuZWNsaXBzZS5sc3A0ai5kZWJ1ZxMAOAEAGW9yZy5lY2xpcHNlLmxzcDRqLmpzb25ycGMTADoBABlvcmcuamV0YnJhaW5zLmFubm90YXRpb25zEwA8AQASdXRpbC5iYXNlLnNxdWFzaGVkEwA+AQAbZmxlZXQvcGx1Z2lucy9kYXAvd29ya3NwYWNlFABAAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwBCAQAuZmxlZXQvcGx1Z2lucy9kYXAvd29ya3NwYWNlL0RhcFdvcmtzcGFjZVBsdWdpbgcARAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwBGAAAAxgAGAAAAAAAbAAgAAAAJAAsAAAAMAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB4AAAAAACAAAAAAACIAAAAAACQAAAAAACYAAAAAACgAAAAAACoAAAAAACyAAAAtAC8AAAAtADEAAAAAADMAAAAAADUAAAAAADcAAAAAADkAAAAAADsAAAAAAD0AAAAAAD8AAAAAAAEAQQAAAAAAAQBBAAAAAQALAAAAAQBDAAEARQBHAAAABAABAEE="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Edap&version=1%2E48%2E261&module=org%2Eeclipse%2Elsp4j%2Edebug%2D0%2E21%2E0%2Ejar",
+                        "hash": "dff2f30196b1e6c884fce5dcaab75ea75239341e68d479d90bfebe1a39fe2729"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABdvcmcuZWNsaXBzZS5sc3A0ai5kZWJ1ZxMABQEABjAuMjEuMAEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAF29yZy9lY2xpcHNlL2xzcDRqL2RlYnVnFAALAQAgb3JnL2VjbGlwc2UvbHNwNGovZGVidWcvYWRhcHRlcnMUAA0BAB5vcmcvZWNsaXBzZS9sc3A0ai9kZWJ1Zy9sYXVuY2gUAA8BACBvcmcvZWNsaXBzZS9sc3A0ai9kZWJ1Zy9zZXJ2aWNlcxQAEQEAHG9yZy9lY2xpcHNlL2xzcDRqL2RlYnVnL3V0aWwUABMBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAABUAAAAMAAUADAAOABAAEgAU"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Edap&version=1%2E48%2E261&module=org%2Eeclipse%2Elsp4j%2Ejsonrpc%2Edebug%2D0%2E21%2E0%2Ejar",
+                        "hash": "4eee39bc3e381aef363e1e4a5116f70f31b16cebcb40a7bd85c33343640bffa4"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB9vcmcuZWNsaXBzZS5sc3A0ai5qc29ucnBjLmRlYnVnEwAFAQAGMC4yMS4wAQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAfb3JnL2VjbGlwc2UvbHNwNGovanNvbnJwYy9kZWJ1ZxQACwEAKG9yZy9lY2xpcHNlL2xzcDRqL2pzb25ycGMvZGVidWcvYWRhcHRlcnMUAA0BACRvcmcvZWNsaXBzZS9sc3A0ai9qc29ucnBjL2RlYnVnL2pzb24UAA8BAChvcmcvZWNsaXBzZS9sc3A0ai9qc29ucnBjL2RlYnVnL21lc3NhZ2VzFAARAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAATAAAACgAEAAwADgAQABI="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.dap.workspace"
+            ]
+        }
+    }
+}

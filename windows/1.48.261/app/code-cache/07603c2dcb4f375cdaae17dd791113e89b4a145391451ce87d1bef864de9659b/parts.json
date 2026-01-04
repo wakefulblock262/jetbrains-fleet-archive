@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElocalHistory&version=1%2E48%2E261&module=fleet%2Eplugins%2ElocalHistory%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "6ac90f0a0f9e50a5bf5bb3b26a1e893111d78512441675459da9c85e85c6e5f0"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACNmbGVldC5wbHVnaW5zLmxvY2FsSGlzdG9yeS5mcm9udGVuZBMABQEAEWZsZWV0LmZyb250ZW5kLnVpEwAHAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAAkBABlmbGVldC5wbHVnaW5zLmRpZmYuY29tbW9uEwALAQAbZmxlZXQucGx1Z2lucy5kaWZmLmZyb250ZW5kEwANAQAaZmxlZXQucGx1Z2lucy5naXQuZnJvbnRlbmQTAA8BABpmbGVldC5wbHVnaW5zLmdpdC5wcm90b2NvbBMAEQEAD2ZsZWV0LnJoaXpvbWVkYhMAEwEACWphdmEuYmFzZRMAFQEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAYAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABoBACNmbGVldC9wbHVnaW5zL2xvY2FsSGlzdG9yeS9mcm9udGVuZBQAHAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAHgEANmZsZWV0L3BsdWdpbnMvbG9jYWxIaXN0b3J5L2Zyb250ZW5kL0xvY2FsSGlzdG9yeVBsdWdpbgcAIAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAiAAAAWAAGAAAAAAAKAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABaAAAAXABkAAAAAABsAAAAAAAEAHQAAAAAAAAAAAAEAHwABACEAIwAAAAQAAQAd"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.localHistory.frontend"
+            ]
+        }
+    }
+}

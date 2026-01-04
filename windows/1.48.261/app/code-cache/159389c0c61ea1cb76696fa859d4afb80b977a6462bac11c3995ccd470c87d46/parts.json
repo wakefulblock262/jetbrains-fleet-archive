@@ -1,0 +1,27 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ejavascript%2Eai&version=1%2E48%2E261&module=code%2Dfeatures%2Djavascript%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "01542667f3dd7a0f0dc59b6f982ae9c0f012b8a2a5007fa95dce5f0b4b6f75bb"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABxjb2RlLmZlYXR1cmVzLmphdmFzY3JpcHQuanZtEwAFAQAUMS4wLjAtYmV0YS40MyswLjQuMjcBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBACJhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhc2NyaXB0FAALAQAsYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvamF2YXNjcmlwdC9jb2RlYmxvY2sUAA0BACphaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhc2NyaXB0L3Jlc29sdmUUAA8BADJhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhc2NyaXB0L3Rlc3QvZ2VuZXJhdGlvbhQAEQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAEwAAAAoABAAMAA4AEAAS"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ejavascript%2Eai&version=1%2E48%2E261&module=fleet%2Eplugins%2Ejavascript%2Eai%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "ea340daff5f4a7ca06d60366fd7e9cfb417dbdc785706775eaa2229d7396354e"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACRmbGVldC5wbHVnaW5zLmphdmFzY3JpcHQuYWkuZnJvbnRlbmQTAAUBABxjb2RlLmZlYXR1cmVzLmphdmFzY3JpcHQuanZtEwAHAQAhY29kZS5mZWF0dXJlcy50ZXN0LmdlbmVyYXRpb24uanZtEwAJAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAAsBABlmbGVldC5wbHVnaW5zLmFpLmZyb250ZW5kEwANAQAhZmxlZXQucGx1Z2lucy5qYXZhc2NyaXB0LmZyb250ZW5kEwAPAQAOZmxlZXQucHJvdG9jb2wTABEBAA9mbGVldC5yaGl6b21lZGITABMBAA9pai5wYXJzaW5nLmNvcmUTABUBAAlqYXZhLmJhc2UTABcBAAcxNy4wLjE0AQARamF2YXNjcmlwdC5wYXJzZXITABoBAA1rb3RsaW4uc3RkbGliEwAcAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTAB4BABtmbGVldC9wbHVnaW5zL2phdmFzY3JpcHQvYWkUACABABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HACIBACZmbGVldC9wbHVnaW5zL2phdmFzY3JpcHQvYWkvSlNBaVBsdWdpbgcAJAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAmAAAAZAAGAAAAAAAMAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABiAAAAZABsAAAAAAB0AAAAAAB8AAAAAAAEAIQAAAAAAAAAAAAEAIwABACUAJwAAAAQAAQAh"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.javascript.ai.frontend"
+            ]
+        }
+    }
+}

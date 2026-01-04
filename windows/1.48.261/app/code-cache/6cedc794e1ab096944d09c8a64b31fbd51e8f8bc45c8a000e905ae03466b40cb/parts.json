@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Espellchecker%2Ekotlin&version=1%2E48%2E261&module=fleet%2Eplugins%2Espellchecker%2Ekotlin%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "6865dd6de681a3ab2f9e5992f4e1074152405b7f95bd91d33b5a853ec4aaa90b"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACpmbGVldC5wbHVnaW5zLnNwZWxsY2hlY2tlci5rb3RsaW4uZnJvbnRlbmQTAAUBAA5mbGVldC5hc3QuY29yZRMABwEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAJAQAdZmxlZXQucGx1Z2lucy5rb3RsaW4uZnJvbnRlbmQTAAsBABtmbGVldC5wbHVnaW5zLmxhbmcuZnJvbnRlbmQTAA0BACNmbGVldC5wbHVnaW5zLnNwZWxsY2hlY2tlci5mcm9udGVuZBMADwEAD2lqLnBhcnNpbmcuY29yZRMAEQEACWphdmEuYmFzZRMAEwEABzE3LjAuMTQBAA1rb3RsaW4ucGFyc2VyEwAWAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABgBACpmbGVldC9wbHVnaW5zL3NwZWxsY2hlY2tlci9rb3RsaW4vZnJvbnRlbmQUABoBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABwBAENmbGVldC9wbHVnaW5zL3NwZWxsY2hlY2tlci9rb3RsaW4vZnJvbnRlbmQvU3BlbGxjaGVja2VyS290bGluUGx1Z2luBwAeAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACAAAABSAAYAAAAAAAkACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFIAAABUAFwAAAAAAGQAAAAAAAQAbAAAAAAAAAAAAAQAdAAEAHwAhAAAABAABABs="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.spellchecker.kotlin.frontend"
+            ]
+        }
+    }
+}

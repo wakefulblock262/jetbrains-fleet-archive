@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egrazie%2Emarkdown&version=1%2E48%2E261&module=fleet%2Eplugins%2Egrazie%2Emarkdown%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "949f11a39d4121fcc24eb5c2dcb999d1a5178b2213bf1ba5226cf85f778f9e58"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACZmbGVldC5wbHVnaW5zLmdyYXppZS5tYXJrZG93bi5mcm9udGVuZBMABQEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAHAQAdZmxlZXQucGx1Z2lucy5ncmF6aWUuZnJvbnRlbmQTAAkBABtmbGVldC5wbHVnaW5zLmxhbmcuZnJvbnRlbmQTAAsBAB9mbGVldC5wbHVnaW5zLm1hcmtkb3duLmZyb250ZW5kEwANAQAJamF2YS5iYXNlEwAPAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITABIBAAxtYXJrZG93bi5qdm0TABQBAB1mbGVldC9wbHVnaW5zL2dyYXppZS9tYXJrZG93bhQAFgEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAGAEAMmZsZWV0L3BsdWdpbnMvZ3JhemllL21hcmtkb3duL0dyYXppZU1hcmtkb3duUGx1Z2luBwAaAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABwAAABGAAYAAAAAAAcACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEIAAABEAEwAAAAAAFQAAAAAAAQAXAAAAAAAAAAAAAQAZAAEAGwAdAAAABAABABc="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.grazie.markdown.frontend"
+            ]
+        }
+    }
+}

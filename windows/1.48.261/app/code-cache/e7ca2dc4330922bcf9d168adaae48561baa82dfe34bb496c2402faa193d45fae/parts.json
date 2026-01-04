@@ -1,0 +1,65 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Erust&version=1%2E48%2E261&module=fleet%2Eplugins%2Erust%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "4a97ea9cc3ac00a70aa37723c13a14894e8f407d228d599e050d74984768b068"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABlmbGVldC5wbHVnaW5zLnJ1c3QuY29tbW9uEwAFAQAMZmxlZXQuY29tbW9uEwAHAQAYZmxlZXQucGx1Z2lucy5ydW4uY29tbW9uEwAJAQAaZmxlZXQucGx1Z2lucy5ydW4ucHJvdG9jb2wTAAsBAA9mbGVldC5yaGl6b21lZGITAA0BAAlqYXZhLmJhc2UTAA8BAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAEgEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAUAQAaa290bGlueC5zZXJpYWxpemF0aW9uLmNvcmUTABYBABFmbGVldC9ydXN0L2NvbW1vbhQAGAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAaAAAARgAGAAAAAAAIAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABCAAAARABMAAAAAABUAAAAAABcAAAAAAAEAGQAAAAAAAAAAAAAAGwAAAAQAAQAZ"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Erust&version=1%2E48%2E261&module=fleet%2Eplugins%2Erust%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "4fa9ae324932d0d561ddef0a3bed137e0b4378cc3a436781ea18e7b970369867"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLnJ1c3QucHJvdG9jb2wTAAUBABxmbGVldC5wbHVnaW5zLmRlYnVnLnByb3RvY29sEwAHAQAaZmxlZXQucGx1Z2lucy5ydW4ucHJvdG9jb2wTAAkBAA5mbGVldC5wcm90b2NvbBMACwEAD2ZsZWV0LnV0aWwuY29yZRMADQEACWphdmEuYmFzZRMADwEABzE3LjAuMTQBABNmbGVldC9ydXN0L3Byb3RvY29sFAASAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABQAAAA0AAYAAAAAAAUACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEIAAABEAAQATAAAAAAAAAAAAAAAVAAAABAABABM="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.rust.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Erust&version=1%2E48%2E261&module=fleet%2Eplugins%2Erust%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "69582125d15bd542dc05c8731c4941d26b4b071a7eeb35b2b127a0892ace0e9c"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AOgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLnJ1c3QuZnJvbnRlbmQTAAUBAA5mbGVldC5hc3QuY29yZRMABwEAEmZsZWV0LmVkaXRvcmNvbmZpZxMACQEADmZsZWV0LmZyb250ZW5kEwALAQAbZmxlZXQucGx1Z2lucy5jb2RlLmZyb250ZW5kEwANAQAYZmxlZXQucGx1Z2lucy5kYXAuY29tbW9uEwAPAQAaZmxlZXQucGx1Z2lucy5kZWJ1Zy5jb21tb24TABEBABxmbGVldC5wbHVnaW5zLmRlYnVnLmZyb250ZW5kEwATAQAcZmxlZXQucGx1Z2lucy5kZWJ1Zy5wcm90b2NvbBMAFQEAJWZsZWV0LnBsdWdpbnMuaW50ZWxsaWoucGFyc2luZy5jb21tb24TABcBACdmbGVldC5wbHVnaW5zLmludGVsbGlqLnBhcnNpbmcuZnJvbnRlbmQTABkBABpmbGVldC5wbHVnaW5zLnJ1bi5mcm9udGVuZBMAGwEAGmZsZWV0LnBsdWdpbnMucnVuLnByb3RvY29sEwAdAQAZZmxlZXQucGx1Z2lucy5ydXN0LmNvbW1vbhMAHwEAG2ZsZWV0LnBsdWdpbnMucnVzdC5wcm90b2NvbBMAIQEAD2lqLnBhcnNpbmcuY29yZRMAIwEACWphdmEuYmFzZRMAJQEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAKAEAGW9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMTACoBAAtydXN0LnBhcnNlchMALAEAE2ZsZWV0L2xhbmd1YWdlL3J1c3QUAC4BABxmbGVldC9sYW5ndWFnZS9ydXN0L3Rlcm1pbmFsFAAwAQAkZmxlZXQvcGx1Z2lucy9ydXN0L2Zyb250ZW5kL3NuaXBwZXRzFAAyAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwA0AQAeZmxlZXQvbGFuZ3VhZ2UvcnVzdC9SdXN0UGx1Z2luBwA2AQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADADgAAACaAAYAAAAAABMACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGAAAAAAAGgAAAAAAHAAgAAAAHgAAAAAAIAAAAAAAIgAAAAAAJAAAAAAAJoAAACcAKQAAAAAAKwAAAAAALQAAAAAAAgAvAAAAAAAxAAAAAAABADMAAAAAAAAAAQA1AAEANwA5AAAACAADAC8AMQAz"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Erust&version=1%2E48%2E261&module=rust%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "e670e63e3f384431bbee956219fc70220121a8db09bc9b878793abbbb4ec335f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAtydXN0LnBhcnNlchMABQEABzAuMy4xODIBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBAAhvcmcvcnVzdBQACwEADW9yZy9ydXN0L2xhbmcUAA0BABhvcmcvcnVzdC9sYW5nL2NvcmUvbGV4ZXIUAA8BABlvcmcvcnVzdC9sYW5nL2NvcmUvcGFyc2VyFAARAQAWb3JnL3J1c3QvbGFuZy9jb3JlL3BzaRQAEwEAD29yZy9ydXN0L3N0ZGV4dBQAFQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAFwAAAA4ABgAMAA4AEAASABQAFg=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.rust.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Erust&version=1%2E48%2E261&module=fleet%2Eplugins%2Erust%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "3b8c5f2ae14d24cf242fd1232a979de25d5dd2dd4b31a99edd8606dfba24ee1f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AOQEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABxmbGVldC5wbHVnaW5zLnJ1c3Qud29ya3NwYWNlEwAFAQAPY29tLmdvb2dsZS5nc29uEwAHAQAGMi4xMi4xAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAAoBABtmbGVldC5wbHVnaW5zLmNvZGUucHJvdG9jb2wTAAwBABhmbGVldC5wbHVnaW5zLmRhcC5jb21tb24TAA4BABtmbGVldC5wbHVnaW5zLmRhcC53b3Jrc3BhY2UTABABABpmbGVldC5wbHVnaW5zLmRlYnVnLmNvbW1vbhMAEgEAG2ZsZWV0LnBsdWdpbnMubGxkYi5wcm90b2NvbBMAFAEAHGZsZWV0LnBsdWdpbnMubGxkYi53b3Jrc3BhY2UTABYBABtmbGVldC5wbHVnaW5zLmxzcC53b3Jrc3BhY2UTABgBABtmbGVldC5wbHVnaW5zLnJ1bi53b3Jrc3BhY2UTABoBABlmbGVldC5wbHVnaW5zLnJ1c3QuY29tbW9uEwAcAQAbZmxlZXQucGx1Z2lucy5ydXN0LnByb3RvY29sEwAeAQAhZmxlZXQucGx1Z2lucy5zbWFydE1vZGUud29ya3NwYWNlEwAgAQAPZmxlZXQucmhpem9tZWRiEwAiAQAPZmxlZXQud29ya3NwYWNlEwAkAQAJamF2YS5iYXNlEwAmAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITACkBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAKwEAEW9yZy5lY2xpcHNlLmxzcDRqEwAtAQAZb3JnLmVjbGlwc2UubHNwNGouanNvbnJwYxMALwEAFGZsZWV0L3J1c3Qvd29ya3NwYWNlFAAxAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAzAQAoZmxlZXQvcnVzdC93b3Jrc3BhY2UvUnVzdFdvcmtzcGFjZVBsdWdpbgcANQEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwA3AAAAlAAGAAAAAAAUAAgAAAAJAAsAAAAAAA0AAAAAAA8AAAAAABEAAAAAABMAAAAAABUAAAAAABcAAAAAABkAAAAAABsAAAAAAB0AAAAAAB8AAAAAACEAAAAAACMAAAAAACUAAAAAACeAAAAoACoAAAAAACwAAAAAAC4AAAAAADAAAAAAAAEAMgAAAAAAAAAAAAEANAABADYAOAAAAAQAAQAy"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.rust.workspace"
+            ]
+        }
+    }
+}

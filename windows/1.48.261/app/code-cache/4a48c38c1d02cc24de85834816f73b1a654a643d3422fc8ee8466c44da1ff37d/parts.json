@@ -1,0 +1,27 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eai%2Ecompletion%2Ekotlin&version=1%2E48%2E261&module=code%2Dfeatures%2Dkotlin%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "0c977c10e0d635a8dd532bc8c47bf90de546dce4b723ff36ef40d784f20003ae"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABhjb2RlLmZlYXR1cmVzLmtvdGxpbi5qdm0TAAUBABQxLjAuMC1iZXRhLjQzKzAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAHmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbhQACwEAKGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbi9jb2RlYmxvY2sUAA0BADFhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vY29tcGxldGlvbi9jb250ZXh0FAAPAQA7YWkvZ3JhemllL2NvZGUvZmVhdHVyZXMva290bGluL2NvbXBsZXRpb24vY29udGV4dC9leHRyYWN0b3IUABEBADZhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vY29tcGxldGlvbi9jb250ZXh0L3BhdGgUABMBADthaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vY29tcGxldGlvbi9jb250ZXh0L3Byb3ZpZGVycxQAFQEAOmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbi9jb21wbGV0aW9uL2NvbnRleHQvc3RyYXRlZ3kUABcBACZhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vcmVzb2x2ZRQAGQEALmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbi90ZXN0L2dlbmVyYXRpb24UABsBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAAB0AAAAUAAkADAAOABAAEgAUABYAGAAaABw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eai%2Ecompletion%2Ekotlin&version=1%2E48%2E261&module=fleet%2Eplugins%2Eai%2Ecompletion%2Ekotlin%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "a1bf3438391059da4efcff723bc563c16c31067ba87e46ae0277e096cb8e318f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AOgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACtmbGVldC5wbHVnaW5zLmFpLmNvbXBsZXRpb24ua290bGluLmZyb250ZW5kEwAFAQAYY29kZS5mZWF0dXJlcy5jb21tb24uanZtEwAHAQAiY29kZS5mZWF0dXJlcy5jb21wbGV0aW9uLnRhc2tzLmp2bRMACQEAGGNvZGUuZmVhdHVyZXMua290bGluLmp2bRMACwEAFGNvZGUuZmlsZXMubW9kZWwuanZtEwANAQAWY29kZS5pbnNpZ2h0Lm1vZGVsLmp2bRMADwEADmZsZWV0LmFzdC5jb3JlEwARAQAVZmxlZXQuZG9jay5jb25uZWN0b3JzEwATAQAOZmxlZXQuZnJvbnRlbmQTABUBABFmbGVldC5mcm9udGVuZC51aRMAFwEAJGZsZWV0LnBsdWdpbnMuYWkuY29tcGxldGlvbi5mcm9udGVuZBMAGQEAGWZsZWV0LnBsdWdpbnMuYWkuZnJvbnRlbmQTABsBAB1mbGVldC5wbHVnaW5zLmtvdGxpbi5mcm9udGVuZBMAHQEAG2ZsZWV0LnBsdWdpbnMubGFuZy5mcm9udGVuZBMAHwEACWphdmEuYmFzZRMAIQEABzE3LjAuMTQBAA1rb3RsaW4ucGFyc2VyEwAkAQANbW9kZWwuamV0Lmp2bRMAJgEADW1vZGVsLm5scC5qdm0TACgBAA5tb2RlbC50YXNrLmp2bRMAKgEAGW5scC5lbmNvZGVyLnN0YXJjb2Rlci5qdm0TACwBABlvcmcuamV0YnJhaW5zLmFubm90YXRpb25zEwAuAQAQdXRpbHMuY29tbW9uLmp2bRMAMAEAImZsZWV0L3BsdWdpbnMvYWkvY29tcGxldGlvbi9rb3RsaW4UADIBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HADQBADtmbGVldC9wbHVnaW5zL2FpL2NvbXBsZXRpb24va290bGluL0FpQ29tcGxldGlvbktvdGxpblBsdWdpbgcANgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwA4AAAAmgAGAAAAAAAVAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB4AAAAAACAAAAAAACKAAAAjACUAAAAAACcAAAAAACkAAAAAACsAAAAAAC0AAAAAAC8AAAAAADEAAAAAAAEAMwAAAAAAAAAAAAEANQABADcAOQAAAAQAAQAz"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.ai.completion.kotlin.frontend"
+            ]
+        }
+    }
+}

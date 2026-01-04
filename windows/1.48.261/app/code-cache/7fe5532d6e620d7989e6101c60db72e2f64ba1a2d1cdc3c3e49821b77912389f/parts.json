@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ekeymaps%2EEclipse&version=1%2E48%2E261&module=fleet%2Eplugins%2Ekeymaps%2EEclipse%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "8216558f1596ce18fb1b41428bfe8153d977ab2201d0706de4bf8f6e314e97d7"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACZmbGVldC5wbHVnaW5zLmtleW1hcHMuRWNsaXBzZS5mcm9udGVuZBMABQEADmZsZWV0LmRvY2suYXBpEwAHAQAOZmxlZXQuZnJvbnRlbmQTAAkBAAlqYXZhLmJhc2UTAAsBAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMADgEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAQAQAVZmxlZXQva2V5bWFwcy9FY2xpcHNlFAASAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAUAQApZmxlZXQva2V5bWFwcy9FY2xpcHNlL0VjbGlwc2VLZXltYXBQbHVnaW4HABYBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAGAAAADoABgAAAAAABQAIAAAAAAAKAAAAAAAMgAAADQAPAAAAAAARAAAAAAABABMAAAAAAAAAAAABABUAAQAXABkAAAAEAAEAEw=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.keymaps.Eclipse.frontend"
+            ]
+        }
+    }
+}

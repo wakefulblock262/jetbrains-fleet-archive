@@ -1,0 +1,57 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ErunDestination&version=1%2E48%2E261&module=fleet%2Eplugins%2ErunDestination%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "8d6740abf9ac668ec47abd6ad684d2622206b8a08a0f5ebe761563d42c6bdbfa"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACNmbGVldC5wbHVnaW5zLnJ1bkRlc3RpbmF0aW9uLmNvbW1vbhMABQEADGZsZWV0LmNvbW1vbhMABwEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAJAQAYZmxlZXQucGx1Z2lucy5ydW4uY29tbW9uEwALAQAlZmxlZXQucGx1Z2lucy5ydW5EZXN0aW5hdGlvbi5wcm90b2NvbBMADQEAD2ZsZWV0LnJoaXpvbWVkYhMADwEACWphdmEuYmFzZRMAEQEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAFAEAI2ZsZWV0L3BsdWdpbnMvcnVuRGVzdGluYXRpb24vY29tbW9uFAAWAQARZmxlZXQubW9kdWxlcy5qdm0TABgBACVmbGVldC5wbHVnaW5zLnJ1bkRlc3RpbmF0aW9uLmZyb250ZW5kEwAaAQAhZmxlZXQucGx1Z2lucy5ydW5EZXN0aW5hdGlvbi50ZXN0EwAcAQAmZmxlZXQucGx1Z2lucy5ydW5EZXN0aW5hdGlvbi53b3Jrc3BhY2UTAB4BACdmbGVldC9wbHVnaW5zL3J1bkRlc3RpbmF0aW9uL2NvbW1vbi9hcGkUACABAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAIgAAAFAABgAAAAAABwAIAAAAAAAKAAAAAAAMAAAAAAAOACAAAAAQAAAAAAASgAAAEwAVAAAAAAACABcAAAAFABkAGwAdAB8AEAAhAAAAAAAAAAAAAAAjAAAABgACABcAIQ=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ErunDestination&version=1%2E48%2E261&module=fleet%2Eplugins%2ErunDestination%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "71aa4b10726f304747989f02de8c086007c394b1dc294d92f7fc9fbf9545da01"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACVmbGVldC5wbHVnaW5zLnJ1bkRlc3RpbmF0aW9uLnByb3RvY29sEwAFAQAaZmxlZXQucGx1Z2lucy5ydW4ucHJvdG9jb2wTAAcBAA5mbGVldC5wcm90b2NvbBMACQEAD2ZsZWV0LnV0aWwuY29yZRMACwEACWphdmEuYmFzZRMADQEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAQAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABIBABprb3RsaW54LnNlcmlhbGl6YXRpb24uY29yZRMAFAEAGmtvdGxpbnguc2VyaWFsaXphdGlvbi5qc29uEwAWAQAlZmxlZXQvcGx1Z2lucy9ydW5EZXN0aW5hdGlvbi9wcm90b2NvbBQAGAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAaAAAARgAGAAAAAAAIAAgAAAAAAAoAAAAAAAwAAAAAAA6AAAAPABEAAAAAABMAAAAAABUAAAAAABcAAAAAAAEAGQAAAAAAAAAAAAAAGwAAAAQAAQAZ"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.runDestination.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ErunDestination&version=1%2E48%2E261&module=fleet%2Eplugins%2ErunDestination%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "a4dc7b71a7eb11bb31c83c071c40b30fe08b8e9fd7812ec01ca88ea81f2949ff"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ALAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACVmbGVldC5wbHVnaW5zLnJ1bkRlc3RpbmF0aW9uLmZyb250ZW5kEwAFAQARZmxlZXQuZnJvbnRlbmQudWkTAAcBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACQEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMACwEAGmZsZWV0LnBsdWdpbnMucnVuLmZyb250ZW5kEwANAQAjZmxlZXQucGx1Z2lucy5ydW5EZXN0aW5hdGlvbi5jb21tb24TAA8BACVmbGVldC5wbHVnaW5zLnJ1bkRlc3RpbmF0aW9uLnByb3RvY29sEwARAQAPZmxlZXQucmhpem9tZWRiEwATAQAJamF2YS5iYXNlEwAVAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITABgBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAGgEAGW9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMTABwBACVmbGVldC9wbHVnaW5zL3J1bkRlc3RpbmF0aW9uL2Zyb250ZW5kFAAeAQARZmxlZXQubW9kdWxlcy5qdm0TACABACFmbGVldC5wbHVnaW5zLnJ1bkRlc3RpbmF0aW9uLnRlc3QTACIBAClmbGVldC9wbHVnaW5zL3J1bkRlc3RpbmF0aW9uL2Zyb250ZW5kL2FwaRQAJAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAJgEAOmZsZWV0L3BsdWdpbnMvcnVuRGVzdGluYXRpb24vZnJvbnRlbmQvUnVuRGVzdGluYXRpb25QbHVnaW4HACgBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAKgAAAGoABgAAAAAACwAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQAAAAAAASACAAAAAUAAAAAAAWgAAAFwAZAAAAAAAbAAAAAAAdAAAAAAACAB8AAAADACEAIwAUACUAAAAAAAAAAAABACcAAQApACsAAAAGAAIAHwAl"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.runDestination.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ErunDestination&version=1%2E48%2E261&module=fleet%2Eplugins%2ErunDestination%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "bf47ffb583626490b2628170c4b05c0eb46c5cde9041975ba26cd70fb09110b4"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACZmbGVldC5wbHVnaW5zLnJ1bkRlc3RpbmF0aW9uLndvcmtzcGFjZRMABQEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMABwEAI2ZsZWV0LnBsdWdpbnMucnVuRGVzdGluYXRpb24uY29tbW9uEwAJAQAlZmxlZXQucGx1Z2lucy5ydW5EZXN0aW5hdGlvbi5wcm90b2NvbBMACwEAD2ZsZWV0LndvcmtzcGFjZRMADQEACWphdmEuYmFzZRMADwEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwASAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABQBABlvcmcuamV0YnJhaW5zLmFubm90YXRpb25zEwAWAQAmZmxlZXQvcGx1Z2lucy9ydW5EZXN0aW5hdGlvbi93b3Jrc3BhY2UUABgBABFmbGVldC5tb2R1bGVzLmp2bRMAGgEAIWZsZWV0LnBsdWdpbnMucnVuRGVzdGluYXRpb24udGVzdBMAHAEAD2ZsZWV0LnJoaXpvbWVkYhMAHgEAKmZsZWV0L3BsdWdpbnMvcnVuRGVzdGluYXRpb24vd29ya3NwYWNlL2FwaRQAIAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAIgEARGZsZWV0L3BsdWdpbnMvcnVuRGVzdGluYXRpb24vd29ya3NwYWNlL1J1bkRlc3RpbmF0aW9uV29ya3NwYWNlUGx1Z2luBwAkAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACYAAABYAAYAAAAAAAgACAAAAAAACgAAAAAADAAgAAAADgAAAAAAEIAAABEAEwAAAAAAFQAAAAAAFwAAAAAAAgAZAAAAAwAbAB0AHwAhAAAAAAAAAAAAAQAjAAEAJQAnAAAABgACABkAIQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.runDestination.workspace"
+            ]
+        }
+    }
+}

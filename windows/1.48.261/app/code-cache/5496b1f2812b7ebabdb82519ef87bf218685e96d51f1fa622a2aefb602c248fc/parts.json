@@ -1,0 +1,49 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Enetwork&version=1%2E48%2E261&module=fleet%2Eplugins%2Enetwork%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "6339a86b97325f217bfd05120ec55dfb9ec23c6cf45b7c05f33853db949ab3d9"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABxmbGVldC5wbHVnaW5zLm5ldHdvcmsuY29tbW9uEwAFAQAMZmxlZXQuY29tbW9uEwAHAQAPZmxlZXQucmhpem9tZWRiEwAJAQAJamF2YS5iYXNlEwALAQAHMTcuMC4xNAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAOAQAgZmxlZXQvcGx1Z2lucy9uZXR3b3JrL2NvbW1vbi9hcGkUABABAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAEgAAAC4ABgAAAAAABAAIAAAAAAAKAAAAAAAMgAAADQAPAAAAAAABABEAAAAAAAAAAAAAABMAAAAEAAEAEQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.network.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Enetwork&version=1%2E48%2E261&module=fleet%2Eplugins%2Enetwork%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "0f0d40c50dd03e83a6a504a4342c184e826a311fc952190ccec2afad12e25593"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB5mbGVldC5wbHVnaW5zLm5ldHdvcmsuZnJvbnRlbmQTAAUBABFmbGVldC5mcm9udGVuZC51aRMABwEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAJAQAdZmxlZXQubmF2aWdhdGlvbi5mcm9udGVuZC5hcGkTAAsBABxmbGVldC5wbHVnaW5zLm5ldHdvcmsuY29tbW9uEwANAQAWZmxlZXQudXRpbC5sb2dnaW5nLmFwaRMADwEAEmZsZWV0LnV0aWwubmV0d29yaxMAEQEACWphdmEuYmFzZRMAEwEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAWAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABgBAB5mbGVldC9wbHVnaW5zL25ldHdvcmsvZnJvbnRlbmQUABoBABFmbGVldC5tb2R1bGVzLmp2bRMAHAEAGmZsZWV0LnBsdWdpbnMubmV0d29yay50ZXN0EwAeAQAPZmxlZXQucmhpem9tZWRiEwAgAQAiZmxlZXQvcGx1Z2lucy9uZXR3b3JrL2Zyb250ZW5kL2FwaRQAIgEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAJAEALGZsZWV0L3BsdWdpbnMvbmV0d29yay9mcm9udGVuZC9OZXR3b3JrUGx1Z2luBwAmAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACgAAABeAAYAAAAAAAkACAAAAAAACgAAAAAADAAAAAAADgAgAAAAEAAAAAAAEgAAAAAAFIAAABUAFwAAAAAAGQAAAAAAAgAbAAAAAwAdAB8AIQAjAAAAAAAAAAAAAQAlAAEAJwApAAAABgACABsAIw=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.network.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Enetwork&version=1%2E48%2E261&module=fleet%2Eplugins%2Enetwork%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "668e4cb7ca3d1f65059654f4b75568d4a15fb3c55fd1ae6ca40b5983adb11a94"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB9mbGVldC5wbHVnaW5zLm5ldHdvcmsud29ya3NwYWNlEwAFAQAcZmxlZXQucGx1Z2lucy5uZXR3b3JrLmNvbW1vbhMABwEAEmZsZWV0LnV0aWwubmV0d29yaxMACQEAD2ZsZWV0LndvcmtzcGFjZRMACwEACWphdmEuYmFzZRMADQEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAQAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABIBABlvcmcuamV0YnJhaW5zLmFubm90YXRpb25zEwAUAQAfZmxlZXQvcGx1Z2lucy9uZXR3b3JrL3dvcmtzcGFjZRQAFgEAEWZsZWV0Lm1vZHVsZXMuanZtEwAYAQAPZmxlZXQucmhpem9tZWRiEwAaAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAcAQA2ZmxlZXQvcGx1Z2lucy9uZXR3b3JrL3dvcmtzcGFjZS9OZXR3b3JrV29ya3NwYWNlUGx1Z2luBwAeAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACAAAABKAAYAAAAAAAcACAAgAAAACgAAAAAADAAAAAAADoAAAA8AEQAAAAAAEwAAAAAAFQAAAAAAAQAXAAAAAgAZABsAAAAAAAEAHQABAB8AIQAAAAQAAQAX"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.network.workspace"
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EvoiceControl&version=1%2E48%2E261&module=fleet%2Eplugins%2EvoiceControl%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "beb687d776906dd3bc86d59c720c980fbbaa7c4f14be1a88f8a0a916655dd023"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACFmbGVldC5wbHVnaW5zLnZvaWNlQ29udHJvbC5jb21tb24TAAUBAAxmbGVldC5jb21tb24TAAcBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACQEAD2ZsZWV0LnJoaXpvbWVkYhMACwEACWphdmEuYmFzZRMADQEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAEAEAIWZsZWV0L3BsdWdpbnMvdm9pY2VDb250cm9sL2NvbW1vbhQAEgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAUAAAANAAGAAAAAAAFAAgAAAAAAAoAAAAAAAwAAAAAAA6AAAAPABEAAAAAAAEAEwAAAAAAAAAAAAAAFQAAAAQAAQAT"
+                }
+            ],
+            "modules": []
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EvoiceControl&version=1%2E48%2E261&module=fleet%2Eplugins%2EvoiceControl%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "2e64aa5253c4dda9c27537de54965d774f8ebe8f7197748d90ed7dd540293d8b"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0APAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACNmbGVldC5wbHVnaW5zLnZvaWNlQ29udHJvbC5mcm9udGVuZBMABQEAFmFwaS5nYXRld2F5LmNsaWVudC5qdm0TAAcBABFmbGVldC5mcm9udGVuZC51aRMACQEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwALAQAZZmxlZXQubXVsdGlwbGF0Zm9ybS5zaGltcxMADQEAGWZsZWV0LnBsdWdpbnMuYWkuZnJvbnRlbmQTAA8BACFmbGVldC5wbHVnaW5zLnZvaWNlQ29udHJvbC5jb21tb24TABEBAA9mbGVldC5yaGl6b21lZGITABMBABJmbGVldC51dGlsLm5ldHdvcmsTABUBABNpby5rdG9yLmNsaWVudC5hdXRoEwAXAQATaW8ua3Rvci5jbGllbnQuY29yZRMAGQEADGlvLmt0b3IuaHR0cBMAGwEACmlvLmt0b3IuaW8TAB0BAA1pby5rdG9yLnV0aWxzEwAfAQASaW8ua3Rvci53ZWJzb2NrZXRzEwAhAQAJamF2YS5iYXNlEwAjAQAHMTcuMC4xNAEADGphdmEuZGVza3RvcBMAJgEADWtvdGxpbi5zdGRsaWITACgBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAKgEADW1vZGVsLmxsbS5qdm0TACwBAA5tb2RlbC50YXNrLmp2bRMALgEAI2ZsZWV0L3BsdWdpbnMvdm9pY2VDb250cm9sL2Zyb250ZW5kFAAwAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAyAQA2ZmxlZXQvcGx1Z2lucy92b2ljZUNvbnRyb2wvZnJvbnRlbmQvVm9pY2VDb250cm9sUGx1Z2luBwA0AQAGTW9kdWxlAQAsZmxlZXQvcGx1Z2lucy92b2ljZUNvbnRyb2wvZnJvbnRlbmQvcHJvdG9jb2wUADcBAAZ3YWtldXAUADkBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMANgAAAJQABgAAAAAAFAAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQAAAAAAASACAAAAAUAAAAAAAWAAAAAAAYAAAAAAAaAAAAAAAcAAAAAAAeAAAAAAAgAAAAAAAiAAAAAAAkgAAAJQAnAAAAJQApAAAAAAArAAAAAAAtAAAAAAAvAAAAAAABADEAAAAAAAAAAAABADMAAQA1ADsAAAAIAAMAMQA4ADo="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EvoiceControl&version=1%2E48%2E261&module=gson%2D2%2E12%2E1%2Ejar",
+                        "hash": "20788c356452dc6c6f1bbdfbb23cab39c77dff2e383ce7682e8c105f91e3966f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA9jb20uZ29vZ2xlLmdzb24TAAUBAAYyLjEyLjEBACFjb20uZ29vZ2xlLmVycm9ycHJvbmUuYW5ub3RhdGlvbnMTAAgBAAlqYXZhLmJhc2UTAAoBAAhqYXZhLnNxbBMADAEAD2pkay51bnN1cHBvcnRlZBMADgEAD2NvbS9nb29nbGUvZ3NvbhQAEAEAG2NvbS9nb29nbGUvZ3Nvbi9hbm5vdGF0aW9ucxQAEgEAF2NvbS9nb29nbGUvZ3Nvbi9yZWZsZWN0FAAUAQAWY29tL2dvb2dsZS9nc29uL3N0cmVhbRQAFgEABk1vZHVsZQEAGGNvbS9nb29nbGUvZ3Nvbi9pbnRlcm5hbBQAGQEAHWNvbS9nb29nbGUvZ3Nvbi9pbnRlcm5hbC9iaW5kFAAbAQAiY29tL2dvb2dsZS9nc29uL2ludGVybmFsL2JpbmQvdXRpbBQAHQEAIGNvbS9nb29nbGUvZ3Nvbi9pbnRlcm5hbC9yZWZsZWN0FAAfAQAcY29tL2dvb2dsZS9nc29uL2ludGVybmFsL3NxbBQAIQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAYAAAAQAAGEAAABwAEAAkAQAAAAAuAAAAAAA0AQAAAAA8AQAAAAAQAEQAAAAAAEwAAAAAAFQAAAAAAFwAAAAAAAAAAAAAAIwAAABQACQARABMAGgAcAB4AIAAiABUAFw=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.voiceControl.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EvoiceControl&version=1%2E48%2E261&module=fleet%2Eplugins%2EvoiceControl%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "21949f1be9625684d9535181b4a9cb6ccda87e440d90906f858839c6f37a1af2"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACRmbGVldC5wbHVnaW5zLnZvaWNlQ29udHJvbC53b3Jrc3BhY2UTAAUBACFmbGVldC5wbHVnaW5zLnZvaWNlQ29udHJvbC5jb21tb24TAAcBAA9mbGVldC53b3Jrc3BhY2UTAAkBAAlqYXZhLmJhc2UTAAsBAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMADgEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAQAQAZb3JnLmpldGJyYWlucy5hbm5vdGF0aW9ucxMAEgEAJGZsZWV0L3BsdWdpbnMvdm9pY2VDb250cm9sL3dvcmtzcGFjZRQAFAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAFgEAQGZsZWV0L3BsdWdpbnMvdm9pY2VDb250cm9sL3dvcmtzcGFjZS9Wb2ljZUNvbnRyb2xXb3Jrc3BhY2VQbHVnaW4HABgBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAGgAAAEAABgAAAAAABgAIACAAAAAKAAAAAAAMgAAADQAPAAAAAAARAAAAAAATAAAAAAABABUAAAAAAAAAAAABABcAAQAZABsAAAAEAAEAFQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.voiceControl.workspace"
+            ]
+        }
+    }
+}

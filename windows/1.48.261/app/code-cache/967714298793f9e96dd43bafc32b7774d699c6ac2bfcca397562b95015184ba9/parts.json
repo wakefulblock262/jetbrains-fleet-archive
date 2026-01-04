@@ -1,0 +1,297 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=fleet%2Eplugins%2ElightweightIndexer%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "030eb1a9a73f22e7576bd91ee80c1ac577b8dd4c36bdeaf22fcd1a1ce88103c8"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACdmbGVldC5wbHVnaW5zLmxpZ2h0d2VpZ2h0SW5kZXhlci5jb21tb24TAAUBAAxmbGVldC5jb21tb24TAAcBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACQEAKWZsZWV0LnBsdWdpbnMubGlnaHR3ZWlnaHRJbmRleGVyLnByb3RvY29sEwALAQAPZmxlZXQucmhpem9tZWRiEwANAQAJamF2YS5iYXNlEwAPAQAHMTcuMC4xNAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwASAQAnZmxlZXQvcGx1Z2lucy9saWdodHdlaWdodEluZGV4ZXIvY29tbW9uFAAUAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABYAAAA6AAYAAAAAAAYACAAAAAAACgAAAAAADAAgAAAADgAAAAAAEIAAABEAEwAAAAAAAQAVAAAAAAAAAAAAAAAXAAAABAABABU="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=fleet%2Eplugins%2ElightweightIndexer%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "25b33b3d64dde35260d1139cdd5cd158122f53baf00449f73842ab1b82e9f56c"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAClmbGVldC5wbHVnaW5zLmxpZ2h0d2VpZ2h0SW5kZXhlci5wcm90b2NvbBMABQEACWphdmEuYmFzZRMABwEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAKAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTAAwBABprb3RsaW54LnNlcmlhbGl6YXRpb24uY29yZRMADgEAKWZsZWV0L3BsdWdpbnMvbGlnaHR3ZWlnaHRJbmRleGVyL3Byb3RvY29sFAAQAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABIAAAAuAAYAAAAAAAQACIAAAAkACwAAAAAADQAAAAAADwAAAAAAAQARAAAAAAAAAAAAAAATAAAABAABABE="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.lightweightIndexer.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=fleet%2Eplugins%2ElightweightIndexer%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "436d9d49575862c588bb6ca52f9b292a77a3168ff17780f597ea3171c3365b4a"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAClmbGVldC5wbHVnaW5zLmxpZ2h0d2VpZ2h0SW5kZXhlci5mcm9udGVuZBMABQEAEWZsZWV0LmZyb250ZW5kLnVpEwAHAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAAkBACdmbGVldC5wbHVnaW5zLmxpZ2h0d2VpZ2h0SW5kZXhlci5jb21tb24TAAsBAClmbGVldC5wbHVnaW5zLmxpZ2h0d2VpZ2h0SW5kZXhlci5wcm90b2NvbBMADQEAD2ZsZWV0LnJoaXpvbWVkYhMADwEACWphdmEuYmFzZRMAEQEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAUAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABYBAClmbGVldC9wbHVnaW5zL2xpZ2h0d2VpZ2h0SW5kZXhlci9mcm9udGVuZBQAGAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAGgEAQmZsZWV0L3BsdWdpbnMvbGlnaHR3ZWlnaHRJbmRleGVyL2Zyb250ZW5kL0xpZ2h0d2VpZ2h0SW5kZXhlclBsdWdpbgcAHAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAeAAAATAAGAAAAAAAIAAgAAAAAAAoAAAAAAAwAIAAAAA4AIAAAABAAAAAAABKAAAATABUAAAAAABcAAAAAAAEAGQAAAAAAAAAAAAEAGwABAB0AHwAAAAQAAQAZ"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.lightweightIndexer.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=catboost%2Dshadow%2Dneed%2Dslf4j%2D1%2E2%2E5%2Ejar",
+                        "hash": "f14fb81fbe245429f0d4e98aa314e98df0cd2455327fc107d7d8f7885f29df96"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AEAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABpjYXRib29zdC5zaGFkb3cubmVlZC5zbGY0ahMABQEABTEuMi41AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQALYWkvY2F0Ym9vc3QUAAsBABJhaS9jYXRib29zdC9jb21tb24UAA0BAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAAA8AAAAGAAIADAAO"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dactivity%2Dmodel%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "43463d24986f99c611c85f95bf59ed8de7595cb88b6b0945a4346eee7280bc2f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABdjb2RlLmFjdGl2aXR5Lm1vZGVsLmp2bRMABQEAFDEuMC4wLWJldGEuNDMrMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAdYWkvZ3JhemllL2NvZGUvYWN0aXZpdHkvbW9kZWwUAAsBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAAA0AAAAEAAEADA=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dfeatures%2Dcommon%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "7aa048df6338658edfaf19ac79a78bc843ab334ca45e90ca01f12d4dcce62adc"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABhjb2RlLmZlYXR1cmVzLmNvbW1vbi5qdm0TAAUBABQxLjAuMC1iZXRhLjQzKzAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEADmFpL2dyYXppZS9jb2RlFAALAQAeYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvY29tbW9uFAANAQApYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvY29tbW9uL2NvbXBsZXRpb24UAA8BADFhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9jb21tb24vY29tcGxldGlvbi9jb250ZXh0FAARAQA7YWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvY29tbW9uL2NvbXBsZXRpb24vY29udGV4dC9jb2xsZWN0b3IUABMBADthaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9jb21tb24vY29tcGxldGlvbi9jb250ZXh0L2V4dHJhY3RvchQAFQEANmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2NvbW1vbi9jb21wbGV0aW9uL2NvbnRleHQvcGF0aBQAFwEAOGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2NvbW1vbi9jb21wbGV0aW9uL2NvbnRleHQvcGlja2VyFAAZAQA4YWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvY29tbW9uL2NvbXBsZXRpb24vY29udGV4dC9zY29yZXIUABsBADphaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9jb21tb24vY29tcGxldGlvbi9jb250ZXh0L3N0cmF0ZWd5FAAdAQAmYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvY29tbW9uL3Jlc29sdmUUAB8BAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAACEAAAAYAAsADAAOABAAEgAUABYAGAAaABwAHgAg"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dfeatures%2Djava%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "90631d7cf0a2d65180811ca06bafb330fea1b73b2f1d27861d953248d3a1ecee"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABZjb2RlLmZlYXR1cmVzLmphdmEuanZtEwAFAQAUMS4wLjAtYmV0YS40MyswLjQuMjcBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBABxhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhFAALAQAmYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvamF2YS9jb2RlYmxvY2sUAA0BAC9haS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhL2NvbXBsZXRpb24vY29udGV4dBQADwEAOWFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvY29tcGxldGlvbi9jb250ZXh0L2V4dHJhY3RvchQAEQEANGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvY29tcGxldGlvbi9jb250ZXh0L3BhdGgUABMBADlhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhL2NvbXBsZXRpb24vY29udGV4dC9wcm92aWRlcnMUABUBADhhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhL2NvbXBsZXRpb24vY29udGV4dC9zdHJhdGVneRQAFwEAJGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvcmVzb2x2ZRQAGQEALGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvdGVzdC9nZW5lcmF0aW9uFAAbAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAdAAAAFAAJAAwADgAQABIAFAAWABgAGgAc"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dfeatures%2Dkotlin%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "0c977c10e0d635a8dd532bc8c47bf90de546dce4b723ff36ef40d784f20003ae"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABhjb2RlLmZlYXR1cmVzLmtvdGxpbi5qdm0TAAUBABQxLjAuMC1iZXRhLjQzKzAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAHmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbhQACwEAKGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbi9jb2RlYmxvY2sUAA0BADFhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vY29tcGxldGlvbi9jb250ZXh0FAAPAQA7YWkvZ3JhemllL2NvZGUvZmVhdHVyZXMva290bGluL2NvbXBsZXRpb24vY29udGV4dC9leHRyYWN0b3IUABEBADZhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vY29tcGxldGlvbi9jb250ZXh0L3BhdGgUABMBADthaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vY29tcGxldGlvbi9jb250ZXh0L3Byb3ZpZGVycxQAFQEAOmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbi9jb21wbGV0aW9uL2NvbnRleHQvc3RyYXRlZ3kUABcBACZhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9rb3RsaW4vcmVzb2x2ZRQAGQEALmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2tvdGxpbi90ZXN0L2dlbmVyYXRpb24UABsBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAAB0AAAAUAAkADAAOABAAEgAUABYAGAAaABw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dfeatures%2Dpython%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "1d55da843173d0e9fd5339d026d5ac889169ae82b11543e23310cc62781c7d06"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABhjb2RlLmZlYXR1cmVzLnB5dGhvbi5qdm0TAAUBABQxLjAuMC1iZXRhLjQzKzAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAHmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbhQACwEAKGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb2RlYmxvY2sUAA0BADthaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9weXRob24vY29tcGxldGlvbi9jb250ZXh0L2V4dHJhY3RvchQADwEANmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb21wbGV0aW9uL2NvbnRleHQvcGF0aBQAEQEAO2FpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb21wbGV0aW9uL2NvbnRleHQvcHJvdmlkZXJzFAATAQA6YWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvcHl0aG9uL2NvbXBsZXRpb24vY29udGV4dC9zdHJhdGVneRQAFQEAM2FpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb21wbGV0aW9uL3Byb3ZpZGVycxQAFwEAJmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9yZXNvbHZlFAAZAQAuYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvcHl0aG9uL3Rlc3QvZ2VuZXJhdGlvbhQAGwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAHQAAABQACQAMAA4AEAASABQAFgAYABoAHA=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dfeatures%2Dresolve%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "52d91b298ef4c5880de389f63db2fc0362817588cd7ff964fa6d41121b3aa308"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABljb2RlLmZlYXR1cmVzLnJlc29sdmUuanZtEwAFAQAUMS4wLjAtYmV0YS40MyswLjQuMjcBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBAB9haS9ncmF6aWUvY29kZS9mZWF0dXJlcy9yZXNvbHZlFAALAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAANAAAABAABAAw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dfiles%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "98c38c9910f74bb5ab19a7b121d87a399124b7771062ad7e1ee172da01af7428"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABJjb2RlLmZpbGVzLmp2bS5qdm0TAAUBABQxLjAuMC1iZXRhLjQzKzAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAGGFpL2dyYXppZS9jb2RlL2ZpbGVzL2p2bRQACwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAADQAAAAQAAQAM"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dfiles%2Dmodel%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "04708b545364a4b5ffbe80a161e3e4dee3b594eb1cac71a953b424c9f9e56128"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AEgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABRjb2RlLmZpbGVzLm1vZGVsLmp2bRMABQEAFDEuMC4wLWJldGEuNDMrMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAaYWkvZ3JhemllL2NvZGUvZmlsZXMvbW9kZWwUAAsBACFhaS9ncmF6aWUvY29kZS9maWxlcy9tb2RlbC9maWx0ZXIUAA0BACFhaS9ncmF6aWUvY29kZS9maWxlcy9tb2RlbC9pZ25vcmUUAA8BAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAABEAAAAIAAMADAAOABA="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dinsight%2Dmodel%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "e9c2cfcfce973e35ad70271c96fd390dba2f20b08f16f5486f0e41e627974652"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABZjb2RlLmluc2lnaHQubW9kZWwuanZtEwAFAQAUMS4wLjAtYmV0YS40MyswLjQuMjcBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBABxhaS9ncmF6aWUvY29kZS9pbnNpZ2h0L21vZGVsFAALAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAANAAAABAABAAw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=code%2Dinsight%2Dpsi%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "e5608ff22eddfcaecab6806b3af60f1be61d5aa4977077424fc77f016c678362"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AEgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABRjb2RlLmluc2lnaHQucHNpLmp2bRMABQEAFDEuMC4wLWJldGEuNDMrMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAaYWkvZ3JhemllL2NvZGUvaW5zaWdodC9wc2kUAAsBACRhaS9ncmF6aWUvY29kZS9pbnNpZ2h0L3BzaS9jb2RlYmxvY2sUAA0BACBhaS9ncmF6aWUvY29kZS9pbnNpZ2h0L3BzaS9mbGVldBQADwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAEQAAAAgAAwAMAA4AEA=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=fleet%2Eml%2Eapi%2D1%2E48%2E261%2Ejar",
+                        "hash": "dd2624d04b0fd7347657aa7462359c068b769ca45363fe7fd321496440c40133"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAxmbGVldC5tbC5hcGkTAAUBAAxmbGVldC5jb21tb24TAAcBABVmbGVldC5kb2NrLmNvbm5lY3RvcnMTAAkBABNmdXp6eS5yZXNvbHZlLm1vZGVsEwALAQAJamF2YS5iYXNlEwANAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITABABAAZtbC5hcGkTABIBAAhtbC50b29scxMAFAEAFG1sLnRvb2xzLnN1c3BlbmRhYmxlEwAWAQAMZmxlZXQvbWwvYXBpFAAYAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABoAAABGAAYAAAAAAAgACAAAAAAACgAAAAAADAAAAAAADoAAAA8AEQAAAAAAEwAAAAAAFQAAAAAAFwAAAAAAAQAZAAAAAAAAAAAAAAAbAAAABAABABk="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=fleet%2Eplugins%2ElightweightIndexer%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "f4d831b0989ba908316c6cb1b478c50b8ea6503a00d158efa00a101b026ddd59"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ANgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACpmbGVldC5wbHVnaW5zLmxpZ2h0d2VpZ2h0SW5kZXhlci53b3Jrc3BhY2UTAAUBABZjb2RlLmZlYXR1cmVzLmphdmEuanZtEwAHAQAYY29kZS5mZWF0dXJlcy5rb3RsaW4uanZtEwAJAQAYY29kZS5mZWF0dXJlcy5weXRob24uanZtEwALAQAZY29kZS5mZWF0dXJlcy5yZXNvbHZlLmp2bRMADQEAFGNvZGUuZmlsZXMubW9kZWwuanZtEwAPAQAWY29kZS5pbnNpZ2h0Lm1vZGVsLmp2bRMAEQEADmZsZWV0LmFzdC5jb3JlEwATAQAMZmxlZXQubWwuYXBpEwAVAQAbZmxlZXQucGx1Z2lucy5jb2RlLnByb3RvY29sEwAXAQAnZmxlZXQucGx1Z2lucy5saWdodHdlaWdodEluZGV4ZXIuY29tbW9uEwAZAQApZmxlZXQucGx1Z2lucy5saWdodHdlaWdodEluZGV4ZXIucHJvdG9jb2wTABsBAA9mbGVldC53b3Jrc3BhY2UTAB0BAA9pai5wYXJzaW5nLmNvcmUTAB8BAAlqYXZhLmJhc2UTACEBAAcxNy4wLjE0AQALamF2YS5wYXJzZXITACQBAA1rb3RsaW4ucGFyc2VyEwAmAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTACgBAA1weXRob24ucGFyc2VyEwAqAQAqZmxlZXQvcGx1Z2lucy9saWdodHdlaWdodEluZGV4ZXIvd29ya3NwYWNlFAAsAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAuAQBMZmxlZXQvcGx1Z2lucy9saWdodHdlaWdodEluZGV4ZXIvd29ya3NwYWNlL0xpZ2h0d2VpZ2h0SW5kZXhlcldvcmtzcGFjZVBsdWdpbgcAMAEABk1vZHVsZQEAM2ZsZWV0L3BsdWdpbnMvbGlnaHR3ZWlnaHRJbmRleGVyL3dvcmtzcGFjZS9mZWF0dXJlcxQAMwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAyAAAAiAAGAAAAAAASAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAIAAAABwAIAAAAB4AAAAAACAAAAAAACKAAAAjACUAAAAAACcAAAAAACkAAAAAACsAAAAAAAEALQAAAAAAAAAAAAEALwABADEANQAAAAYAAgAtADQ="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=fuzzy%2Dresolve%2Dmodel%2D14%2Ejar",
+                        "hash": "b0877aa105e58ab74e7193219a9368090048cbffb608a2b5faa8f761210ec659"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABNmdXp6eS5yZXNvbHZlLm1vZGVsEwAFAQACMTQBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBABdjb20vamV0YnJhaW5zL21sL21vZGVscxQACwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAADQAAAAQAAQAM"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=ij%2Dparsing%2Dcore%2D0%2E3%2E182%2Ejar",
+                        "hash": "1f306a85b28cdef282a895ce92d720b3b064204471a634056eb79f2e9c4f8a3e"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AZAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA9pai5wYXJzaW5nLmNvcmUTAAUBAAcwLjMuMTgyAQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQASZmxlZXQvY29tL2ludGVsbGlqFAALAQAbZmxlZXQvY29tL2ludGVsbGlqL2FuYWx5c2lzFAANAQApZmxlZXQvY29tL2ludGVsbGlqL2NvZGVJbnNpZ2h0L2NvbXBsZXRpb24UAA8BABdmbGVldC9jb20vaW50ZWxsaWovY29yZRQAEQEAHWZsZWV0L2NvbS9pbnRlbGxpai9mb3JtYXR0aW5nFAATAQAkZmxlZXQvY29tL2ludGVsbGlqL2Zvcm1hdHRpbmcvZW5naW5lFAAVAQAeZmxlZXQvY29tL2ludGVsbGlqL2luZGVudGF0aW9uFAAXAQAXZmxlZXQvY29tL2ludGVsbGlqL2xhbmcUABkBACRmbGVldC9jb20vaW50ZWxsaWovbGFuZy9hY3Rpb25zY3JpcHQUABsBABxmbGVldC9jb20vaW50ZWxsaWovbGFuZy9pbXBsFAAdAQAhZmxlZXQvY29tL2ludGVsbGlqL2xhbmcvaW5qZWN0aW9uFAAfAQAeZmxlZXQvY29tL2ludGVsbGlqL2xhbmcvcGFyc2VyFAAhAQAYZmxlZXQvY29tL2ludGVsbGlqL2xleGVyFAAjAQAcZmxlZXQvY29tL2ludGVsbGlqL21vZGVsL3BzaRQAJQEAJmZsZWV0L2NvbS9pbnRlbGxpai9vcGVuYXBpL2FwcGxpY2F0aW9uFAAnAQAlZmxlZXQvY29tL2ludGVsbGlqL29wZW5hcGkvY29tcG9uZW50cxQAKQEAJWZsZWV0L2NvbS9pbnRlbGxpai9vcGVuYXBpL2RpYWdub3N0aWMUACsBACRmbGVldC9jb20vaW50ZWxsaWovb3BlbmFwaS9maWxlVHlwZXMUAC0BACNmbGVldC9jb20vaW50ZWxsaWovb3BlbmFwaS9wcm9ncmVzcxQALwEAImZsZWV0L2NvbS9pbnRlbGxpai9vcGVuYXBpL3Byb2plY3QUADEBAB9mbGVldC9jb20vaW50ZWxsaWovb3BlbmFwaS91dGlsFAAzAQAkZmxlZXQvY29tL2ludGVsbGlqL29wZW5hcGkvdXRpbC9kaWZmFAA1AQAiZmxlZXQvY29tL2ludGVsbGlqL29wZW5hcGkvdXRpbC9pbxQANwEAKGZsZWV0L2NvbS9pbnRlbGxpai9vcGVuYXBpL3V0aWwvcmVnaXN0cnkUADkBACRmbGVldC9jb20vaW50ZWxsaWovb3BlbmFwaS91dGlsL3RleHQUADsBAB5mbGVldC9jb20vaW50ZWxsaWovb3BlbmFwaS92ZnMUAD0BABZmbGVldC9jb20vaW50ZWxsaWovcHNpFAA/AQAgZmxlZXQvY29tL2ludGVsbGlqL3BzaS9jb2RlU3R5bGUUAEEBACtmbGVldC9jb20vaW50ZWxsaWovcHNpL2NvZGVTdHlsZS9saW5lSW5kZW50FABDAQAsZmxlZXQvY29tL2ludGVsbGlqL3BzaS9pbXBsL3NvdXJjZS9jb2RlU3R5bGUUAEUBADdmbGVldC9jb20vaW50ZWxsaWovcHNpL2ltcGwvc291cmNlL2NvZGVTdHlsZS9saW5lSW5kZW50FABHAQAnZmxlZXQvY29tL2ludGVsbGlqL3BzaS9pbXBsL3NvdXJjZS90cmVlFABJAQAoZmxlZXQvY29tL2ludGVsbGlqL3BzaS90ZW1wbGF0ZUxhbmd1YWdlcxQASwEAG2ZsZWV0L2NvbS9pbnRlbGxpai9wc2kvdHJlZRQATQEAG2ZsZWV0L2NvbS9pbnRlbGxpai9wc2kvdXRpbBQATwEAHGZsZWV0L2NvbS9pbnRlbGxpai9yZWZlcmVuY2UUAFEBABdmbGVldC9jb20vaW50ZWxsaWovdXRpbBQAUwEAImZsZWV0L2NvbS9pbnRlbGxpai91dGlsL2NvbnRhaW5lcnMUAFUBABxmbGVldC9jb20vaW50ZWxsaWovdXRpbC9kaWZmFABXAQAaZmxlZXQvY29tL2ludGVsbGlqL3V0aWwvaW8UAFkBABxmbGVldC9jb20vaW50ZWxsaWovdXRpbC9sYW5nFABbAQAcZmxlZXQvY29tL2ludGVsbGlqL3V0aWwvdGV4dBQAXQEAIGZsZWV0L2NvbS9qZXRicmFpbnMvbGFuZy9wYXJzaW5nFABfAQAoZmxlZXQvY29tL2pldGJyYWlucy9sYW5nL3BhcnNpbmcvYnVpbGRlchQAYQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAYwAAAFoALAAMAA4AEAASABQAFgAYABoAHAAeACAAIgAkACYAKAAqACwALgAwADIANAA2ADgAOgA8AD4AQABCAEQARgBIAEoATABOAFAAUgBUAFYAWABaAFwAXgBgAGI="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=java%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "a00d888a0ea3352141e6e52df16816376aaabd5f42f2eb9c9c45042cef801a4d"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAtqYXZhLnBhcnNlchMABQEABzAuMy4xODIBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBACxmbGVldC9jb20vaW50ZWxsaWovY29kZUluc2lnaHQvZWRpdG9yQWN0aW9ucxQACwEAHGZsZWV0L2NvbS9pbnRlbGxpai9jb3JlL2phdmEUAA0BABxmbGVldC9jb20vaW50ZWxsaWovbGFuZy9qYXZhFAAPAQAiZmxlZXQvY29tL2ludGVsbGlqL2xhbmcvamF2YS9sZXhlchQAEQEAI2ZsZWV0L2NvbS9pbnRlbGxpai9sYW5nL2phdmEvcGFyc2VyFAATAQAbZmxlZXQvY29tL2ludGVsbGlqL2xhbmcvanZtFAAVAQAdZmxlZXQvY29tL2ludGVsbGlqL2xleGVyL2phdmEUABcBABtmbGVldC9jb20vaW50ZWxsaWovcG9tL2phdmEUABkBACJmbGVldC9jb20vaW50ZWxsaWovcHNpL2ltcGwvc291cmNlFAAbAQAbZmxlZXQvY29tL2ludGVsbGlqL3BzaS9qYXZhFAAdAQAsZmxlZXQvY29tL2ludGVsbGlqL3BzaS9qYXZhL2ltcGwvc291cmNlL3RyZWUUAB8BACBmbGVldC9jb20vaW50ZWxsaWovcHNpL3RyZWUvamF2YRQAIQEAIGZsZWV0L2NvbS9pbnRlbGxpai9wc2kvdXRpbC9qYXZhFAAjAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAlAAAAHAANAAwADgAQABIAFAAWABgAGgAcAB4AIAAiACQ="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=kotlin%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "be69648f0a14958cf7c7a42657cf5416a74ac910eb80b92080197f0dc994ab99"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA1rb3RsaW4ucGFyc2VyEwAFAQAHMC4zLjE4MgEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAGmZsZWV0L29yZy9qZXRicmFpbnMva290bGluFAALAQAfZmxlZXQvb3JnL2pldGJyYWlucy9rb3RsaW4vaWRlYRQADQEANGZsZWV0L29yZy9qZXRicmFpbnMva290bGluL2lkZWEvZm9ybWF0dGVyL2xpbmVJbmRlbnQUAA8BACVmbGVldC9vcmcvamV0YnJhaW5zL2tvdGxpbi9rZG9jL2xleGVyFAARAQAmZmxlZXQvb3JnL2pldGJyYWlucy9rb3RsaW4va2RvYy9wYXJzZXIUABMBACBmbGVldC9vcmcvamV0YnJhaW5zL2tvdGxpbi9sZXhlchQAFQEAImZsZWV0L29yZy9qZXRicmFpbnMva290bGluL3BhcnNpbmcUABcBAChmbGVldC9vcmcvamV0YnJhaW5zL2tvdGxpbi91dGlscy9zdHJpbmdzFAAZAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAbAAAAEgAIAAwADgAQABIAFAAWABgAGg=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=ml%2Dapi%2D76%2Ejar",
+                        "hash": "ab6b6f76d4c44f397bf2f72a377a392ba526574580181388b00109fd7eb3f887"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAZtbC5hcGkTAAUBAAI3NgEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAFGNvbS9qZXRicmFpbnMvbWwvYXBpFAALAQAcY29tL2pldGJyYWlucy9tbC9hcGkvZmVhdHVyZRQADQEAJGNvbS9qZXRicmFpbnMvbWwvYXBpL2ZlYXR1cmUvc3RvcmFnZRQADwEALWNvbS9qZXRicmFpbnMvbWwvYXBpL2ZlYXR1cmUvc3RvcmFnZS9jYWZmZWluZRQAEQEAKGNvbS9qZXRicmFpbnMvbWwvYXBpL2ZlYXR1cmUvc3VzcGVuZGFibGUUABMBABljb20vamV0YnJhaW5zL21sL2FwaS9sb2dzFAAVAQAaY29tL2pldGJyYWlucy9tbC9hcGkvbW9kZWwUABcBACZjb20vamV0YnJhaW5zL21sL2FwaS9tb2RlbC9zdXNwZW5kYWJsZRQAGQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAGwAAABIACAAMAA4AEAASABQAFgAYABo="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=ml%2Dtools%2D76%2Ejar",
+                        "hash": "70fe08ee6c031d07a21a2e850e293677efc6d9ee4fccd930634715efc91b4be0"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAhtbC50b29scxMABQEAAjc2AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAfY29tL2pldGJyYWlucy9tbC9tb2RlbC9jYXRib29zdBQACwEAH2NvbS9qZXRicmFpbnMvbWwvdG9vbHMvZmVhdHVyZXMUAA0BABtjb20vamV0YnJhaW5zL21sL3Rvb2xzL2xvZ3MUAA8BABxjb20vamV0YnJhaW5zL21sL3Rvb2xzL21vZGVsFAARAQAlY29tL2pldGJyYWlucy9tbC90b29scy9tb2RlbC9jYXRib29zdBQAEwEAKGNvbS9qZXRicmFpbnMvbWwvdG9vbHMvbW9kZWwvY2F0Ym9vc3RPbGQUABUBACpjb20vamV0YnJhaW5zL21sL3Rvb2xzL21vZGVsL3ByZXByb2Nlc3NpbmcUABcBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAABkAAAAQAAcADAAOABAAEgAUABYAGA=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=ml%2Dtools%2Dsuspendable%2D76%2Ejar",
+                        "hash": "c050df0a693a09a264284ba136e3ab2671c343f853210f90e17c0b10157074ce"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AEAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABRtbC50b29scy5zdXNwZW5kYWJsZRMABQEAAjc2AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAoY29tL2pldGJyYWlucy9tbC90b29scy9tb2RlbC9zdXNwZW5kYWJsZRQACwEAKGNvbS9qZXRicmFpbnMvbWwvdG9vbHMvc3VzcGVuZGFibGUvbW9kZWwUAA0BAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAAA8AAAAGAAIADAAO"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=model%2Dcommon%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "a0fc35e6bffcd6742c4dc8eea49e1481e3a3ebf5cd81a4cd141743cc58d2bb9f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AEgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABBtb2RlbC5jb21tb24uanZtEwAFAQAGMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAJYWkvZ3JhemllFAALAQAUYWkvZ3JhemllL2Fubm90YXRpb24UAA0BAA9haS9ncmF6aWUvZGVidWcUAA8BAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAABEAAAAIAAMADAAOABA="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=model%2Dnlp%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "2bc99f0417cf1a2ad6fd68a3dfc57f6b96b92f04a92e3e10e233428face66ac1"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA1tb2RlbC5ubHAuanZtEwAFAQAGMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAbYWkvZ3JhemllL21vZGVsL25scC9lbmNvZGVyFAALAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAANAAAABAABAAw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=model%2Dtext%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "5f8e83ac77200b1cbcd5a810c21504935c5c6158b29393215a07b51d86663c62"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA5tb2RlbC50ZXh0Lmp2bRMABQEABjAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEADmFpL2dyYXppZS90ZXh0FAALAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAANAAAABAABAAw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=nlp%2Dcommon%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "46945828836ccf729f983834c7066abec01b31d3e4a3d1fd3c5c4da8f5052e1e"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA5ubHAuY29tbW9uLmp2bRMABQEABjAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAE2FpL2dyYXppZS9ubHAvdXRpbHMUAAsBACFhaS9ncmF6aWUvbmxwL3V0aWxzL25vcm1hbGl6YXRpb24UAA0BABphaS9ncmF6aWUvbmxwL3V0aWxzL3ZvY2FicxQADwEAGWFpL2dyYXppZS9ubHAvdXRpbHMvd29yZHMUABEBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAABMAAAAKAAQADAAOABAAEg=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=nlp%2Dencoder%2Dengine%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "643fad919705143bfdec674cfb7c1c9f430050dc8bc7f9f28032d7ba4204507e"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABZubHAuZW5jb2Rlci5lbmdpbmUuanZtEwAFAQAGMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAVYWkvZ3JhemllL25scC9lbmNvZGVyFAALAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAANAAAABAABAAw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=nlp%2Dencoder%2Dstarcoder%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "37fb2620a9b2475898e418b3a298ea0eadb43046553477405e6922bcb3b83c6f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABlubHAuZW5jb2Rlci5zdGFyY29kZXIuanZtEwAFAQAGMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAfYWkvZ3JhemllL25scC9lbmNvZGVyL3N0YXJjb2RlchQACwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAADQAAAAQAAQAM"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=nlp%2Dlangs%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "1a7bb88fc482b59a56c8fc31cb6da87c410376cc6108a1ea56d7597a37035634"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AEgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA1ubHAubGFuZ3MuanZtEwAFAQAGMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQATYWkvZ3JhemllL25scC9sYW5ncxQACwEAHGFpL2dyYXppZS9ubHAvbGFuZ3MvYWxwaGFiZXQUAA0BABlhaS9ncmF6aWUvbmxwL2xhbmdzL3V0aWxzFAAPAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAARAAAACAADAAwADgAQ"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=nlp%2Dpatterns%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "bfab8f519245735709f861796914304df627eaa4f42cdb07457c0b51fdd16a37"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABBubHAucGF0dGVybnMuanZtEwAFAQAGMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAVYWkvZ3JhemllL25scC9maWx0ZXJzFAALAQAWYWkvZ3JhemllL25scC9wYXR0ZXJucxQADQEAGmFpL2dyYXppZS9ubHAvcGF0dGVybnMvZXh0FAAPAQAfYWkvZ3JhemllL25scC9wYXR0ZXJucy9zdGFuZGFyZBQAEQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAEwAAAAoABAAMAA4AEAAS"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=nlp%2Dtokenizer%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "28578bd27b95b57a162a0df5e4acef2cc2b3ca7edc6fc443a52dd082e97e667b"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABFubHAudG9rZW5pemVyLmp2bRMABQEABjAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAF2FpL2dyYXppZS9ubHAvdG9rZW5pemVyFAALAQAjYWkvZ3JhemllL25scC90b2tlbml6ZXIvcmV0b2tlbml6ZXIUAA0BACthaS9ncmF6aWUvbmxwL3Rva2VuaXplci9yZXRva2VuaXplci9wYXR0ZXJuFAAPAQAcYWkvZ3JhemllL25scC90b2tlbml6ZXIvcnVsZRQAEQEAIGFpL2dyYXppZS9ubHAvdG9rZW5pemVyL3NlbnRlbmNlFAATAQAgYWkvZ3JhemllL25scC90b2tlbml6ZXIvc2VxdWVuY2UUABUBAB1haS9ncmF6aWUvbmxwL3Rva2VuaXplci9zcGFjeRQAFwEAIGFpL2dyYXppZS9ubHAvdG9rZW5pemVyL3NwYWN5L2RlFAAZAQAgYWkvZ3JhemllL25scC90b2tlbml6ZXIvc3BhY3kvZW4UABsBACBhaS9ncmF6aWUvbmxwL3Rva2VuaXplci9zcGFjeS9ydRQAHQEAIGFpL2dyYXppZS9ubHAvdG9rZW5pemVyL3NwYWN5L3VrFAAfAQAdYWkvZ3JhemllL25scC90b2tlbml6ZXIvdXRpbHMUACEBABxhaS9ncmF6aWUvbmxwL3Rva2VuaXplci93b3JkFAAjAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAlAAAAHAANAAwADgAQABIAFAAWABgAGgAcAB4AIAAiACQ="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=python%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "836cedb835986478182803345acd31875e67b7858633a7662b1bcce51e41dca5"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA1weXRob24ucGFyc2VyEwAFAQAHMC4zLjE4MgEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAGmZsZWV0L2NvbS9qZXRicmFpbnMvcHl0aG9uFAALAQAgZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vbGV4ZXIUAA0BACJmbGVldC9jb20vamV0YnJhaW5zL3B5dGhvbi9wYXJzaW5nFAAPAQAqZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcGFyc2luZy9jb25zb2xlFAARAQAeZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcHNpFAATAQAnZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcmVxdWlyZW1lbnRzFAAVAQArZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcmVxdWlyZW1lbnRzL3BzaRQAFwEAMmZsZWV0L2NvbS9qZXRicmFpbnMvcHl0aG9uL3JlcXVpcmVtZW50cy9wc2kvcGFyc2VyFAAZAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAbAAAAEgAIAAwADgAQABIAFAAWABgAGg=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2ElightweightIndexer&version=1%2E48%2E261&module=utils%2Dcommon%2Djvm%2D0%2E4%2E27%2Ejar",
+                        "hash": "b061f8b73f808ddcb82b827fa42b68f775e55920aeee341a844b8227824b1be5"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABB1dGlscy5jb21tb24uanZtEwAFAQAGMC40LjI3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAPYWkvZ3JhemllL3V0aWxzFAALAQAbYWkvZ3JhemllL3V0aWxzL2Fubm90YXRpb25zFAANAQAaYWkvZ3JhemllL3V0aWxzL2F0dHJpYnV0ZXMUAA8BABVhaS9ncmF6aWUvdXRpbHMvY2FjaGUUABEBABRhaS9ncmF6aWUvdXRpbHMvZGF0YRQAEwEAFmFpL2dyYXppZS91dGlscy9ldmVudHMUABUBABRhaS9ncmF6aWUvdXRpbHMvanNvbhQAFwEAG2FpL2dyYXppZS91dGlscy9qc29uL3NjaGVtYRQAGQEAE2FpL2dyYXppZS91dGlscy9tcHAUABsBAB9haS9ncmF6aWUvdXRpbHMvbXBwL2NvbGxlY3Rpb25zFAAdAQAXYWkvZ3JhemllL3V0aWxzL21wcC9nZW8UAB8BABlhaS9ncmF6aWUvdXRpbHMvbXBwL21vbmV5FAAhAQAaYWkvZ3JhemllL3V0aWxzL21wcC9udW1iZXIUACMBABhhaS9ncmF6aWUvdXRpbHMvbXBwL3RpbWUUACUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAACcAAAAeAA4ADAAOABAAEgAUABYAGAAaABwAHgAgACIAJAAm"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.lightweightIndexer.workspace"
+            ]
+        }
+    }
+}

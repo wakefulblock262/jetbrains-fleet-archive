@@ -1,0 +1,47 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Elldb&version=1%2E48%2E261&module=fleet%2Eplugins%2Elldb%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "d783dd463d3c239b58600736cee52dbc0508bae21791322cbe24bc57dce6c1d5"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLmxsZGIucHJvdG9jb2wTAAUBABxmbGVldC5wbHVnaW5zLmRlYnVnLnByb3RvY29sEwAHAQAOZmxlZXQucHJvdG9jb2wTAAkBAA9mbGVldC51dGlsLmNvcmUTAAsBAAlqYXZhLmJhc2UTAA0BAAcxNy4wLjE0AQATZmxlZXQvbGxkYi9wcm90b2NvbBQAEAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwASAAAALgAGAAAAAAAEAAgAAAAAAAoAAAAAAAwAAAAAAA6AAAAPAAEAEQAAAAAAAAAAAAAAEwAAAAQAAQAR"
+                }
+            ],
+            "modules": []
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Elldb&version=1%2E48%2E261&module=fleet%2Eplugins%2Elldb%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "4c03c310aa196c0472b54d8cbcb23316d3dd6a89b3f6819fede21992791be9ed"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLmxsZGIuZnJvbnRlbmQTAAUBAAxmbGVldC5jb21tb24TAAcBABFmbGVldC5mcm9udGVuZC51aRMACQEADmZsZWV0Lm5vcmlhLnVpEwALAQAYZmxlZXQucGx1Z2lucy5kYXAuY29tbW9uEwANAQAcZmxlZXQucGx1Z2lucy5kZWJ1Zy5mcm9udGVuZBMADwEAHGZsZWV0LnBsdWdpbnMuZGVidWcucHJvdG9jb2wTABEBABtmbGVldC5wbHVnaW5zLmxsZGIucHJvdG9jb2wTABMBAA5mbGVldC5wcm90b2NvbBMAFQEACWphdmEuYmFzZRMAFwEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAaAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABwBABNmbGVldC9sbGRiL2Zyb250ZW5kFAAeAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAgAQAeZmxlZXQvbGxkYi9mcm9udGVuZC9MTERCUGx1Z2luBwAiAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACQAAABeAAYAAAAAAAsACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGIAAABkAGwAAAAAAHQAAAAAAAQAfAAAAAAAAAAAAAQAhAAEAIwAlAAAABAABAB8="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.lldb.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Elldb&version=1%2E48%2E261&module=fleet%2Eplugins%2Elldb%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "7407e4f7c133de6aff3fb0e6ab2783e14c8b0f023444f582ddc6fe862b5672c0"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABxmbGVldC5wbHVnaW5zLmxsZGIud29ya3NwYWNlEwAFAQAMZmxlZXQuY29tbW9uEwAHAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAAkBABtmbGVldC5wbHVnaW5zLmRhcC53b3Jrc3BhY2UTAAsBABpmbGVldC5wbHVnaW5zLmRlYnVnLmNvbW1vbhMADQEAHGZsZWV0LnBsdWdpbnMuZGVidWcucHJvdG9jb2wTAA8BABtmbGVldC5wbHVnaW5zLmxsZGIucHJvdG9jb2wTABEBAA5mbGVldC5wcm90b2NvbBMAEwEAFmZsZWV0LnV0aWwubG9nZ2luZy5hcGkTABUBAA9mbGVldC53b3Jrc3BhY2UTABcBAAlqYXZhLmJhc2UTABkBAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAHAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAeAQAUZmxlZXQvbGxkYi93b3Jrc3BhY2UUACABABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HACIBAChmbGVldC9sbGRiL3dvcmtzcGFjZS9MTERCV29ya3NwYWNlUGx1Z2luBwAkAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACYAAABkAAYAAAAAAAwACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGAAAAAAAGoAAABsAHQAAAAAAHwAAAAAAAQAhAAAAAAAAAAAAAQAjAAEAJQAnAAAABAABACE="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.lldb.workspace"
+            ]
+        }
+    }
+}

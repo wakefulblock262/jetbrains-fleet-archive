@@ -1,0 +1,49 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Emarine&version=1%2E48%2E261&module=fleet%2Eplugins%2Emarine%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "9d285a6f45b9fc774b9e0d3ae9a2970a8060a025d8aa4ed1d128e881edcf87a9"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLm1hcmluZS5jb21tb24TAAUBAAxmbGVldC5jb21tb24TAAcBABhmbGVldC5wbHVnaW5zLnJ1bi5jb21tb24TAAkBAA9mbGVldC5yaGl6b21lZGITAAsBAAlqYXZhLmJhc2UTAA0BAAcxNy4wLjE0AQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABABABNmbGVldC9tYXJpbmUvY29tbW9uFAASAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABQAAAA0AAYAAAAAAAUACAAAAAAACgAAAAAADAAAAAAADoAAAA8AEQAAAAAAAQATAAAAAAAAAAAAAAAVAAAABAABABM="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.marine.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Emarine&version=1%2E48%2E261&module=fleet%2Eplugins%2Emarine%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "741e77f3ccbc01032598d07df17752b86bc8eee3279f9cb7f94ee2217db8febd"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AMAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLm1hcmluZS5mcm9udGVuZBMABQEADWZsZWV0LmJ1bmRsZXMTAAcBAAxmbGVldC5jb21tb24TAAkBABFmbGVldC5mcm9udGVuZC51aRMACwEAG2ZsZWV0LnBsdWdpbnMuY29kZS5mcm9udGVuZBMADQEAG2ZsZWV0LnBsdWdpbnMubGFuZy5mcm9udGVuZBMADwEAG2ZsZWV0LnBsdWdpbnMubWFyaW5lLmNvbW1vbhMAEQEAGmZsZWV0LnBsdWdpbnMucnVuLmZyb250ZW5kEwATAQAcZmxlZXQucGx1Z2lucy5zaGVsbC5mcm9udGVuZBMAFQEAEWZsZWV0LnByZWZlcmVuY2VzEwAXAQAWZmxlZXQucmVwb3J0aW5nLnNoYXJlZBMAGQEAD2ZsZWV0LnJoaXpvbWVkYhMAGwEAD2lqLnBhcnNpbmcuY29yZRMAHQEACWphdmEuYmFzZRMAHwEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAIgEADHNoZWxsLnBhcnNlchMAJAEAFWZsZWV0L21hcmluZS9mcm9udGVuZBQAJgEAIGZsZWV0L21hcmluZS9mcm9udGVuZC9jb21wbGV0aW9uFAAoAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAqAQAiZmxlZXQvbWFyaW5lL2Zyb250ZW5kL01hcmluZVBsdWdpbgcALAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAuAAAAfAAGAAAAAAAPAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB4AAAAAACCAAAAhACMAAAAAACUAAAAAAAIAJwAAAAAAKQAAAAAAAAAAAAEAKwABAC0ALwAAAAYAAgAnACk="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.marine.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Emarine&version=1%2E48%2E261&module=fleet%2Eplugins%2Emarine%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "e5de61e4d918653d4bcd2646ab95ede34f453702dad7b04753f86545799d736d"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB5mbGVldC5wbHVnaW5zLm1hcmluZS53b3Jrc3BhY2UTAAUBAAxmbGVldC5jb21tb24TAAcBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACQEAG2ZsZWV0LnBsdWdpbnMubWFyaW5lLmNvbW1vbhMACwEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMADQEAGmZsZWV0LnBsdWdpbnMucnVuLnByb3RvY29sEwAPAQAbZmxlZXQucGx1Z2lucy5ydW4ud29ya3NwYWNlEwARAQAPZmxlZXQucmhpem9tZWRiEwATAQAPZmxlZXQudXRpbC5jb3JlEwAVAQAJamF2YS5iYXNlEwAXAQAHMTcuMC4xNAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAaAQAWZmxlZXQvbWFyaW5lL3dvcmtzcGFjZRQAHAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAHgEALGZsZWV0L21hcmluZS93b3Jrc3BhY2UvTWFyaW5lV29ya3NwYWNlUGx1Z2luBwAgAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACIAAABYAAYAAAAAAAoACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGIAAABkAGwAAAAAAAQAdAAAAAAAAAAAAAQAfAAEAIQAjAAAABAABAB0="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.marine.workspace"
+            ]
+        }
+    }
+}

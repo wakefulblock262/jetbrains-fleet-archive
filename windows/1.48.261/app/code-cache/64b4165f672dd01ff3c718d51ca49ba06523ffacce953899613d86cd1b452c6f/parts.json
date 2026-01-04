@@ -1,0 +1,27 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eshell&version=1%2E48%2E261&module=fleet%2Eplugins%2Eshell%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "9491756fe138129f92048fe0bc4e4ef369cd449d6fb88d869f31f19079af1950"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABxmbGVldC5wbHVnaW5zLnNoZWxsLmZyb250ZW5kEwAFAQAOZmxlZXQuYXN0LmNvcmUTAAcBABVmbGVldC5ib3JpbmdGb3JtYXR0ZXITAAkBAA5mbGVldC5mcm9udGVuZBMACwEADmZsZWV0Lm5vcmlhLnVpEwANAQAbZmxlZXQucGx1Z2lucy5jb2RlLmZyb250ZW5kEwAPAQAlZmxlZXQucGx1Z2lucy5pbnRlbGxpai5wYXJzaW5nLmNvbW1vbhMAEQEAJ2ZsZWV0LnBsdWdpbnMuaW50ZWxsaWoucGFyc2luZy5mcm9udGVuZBMAEwEAG2ZsZWV0LnBsdWdpbnMubGFuZy5mcm9udGVuZBMAFQEAGmZsZWV0LnBsdWdpbnMucnVuLmZyb250ZW5kEwAXAQAPaWoucGFyc2luZy5jb3JlEwAZAQAJamF2YS5iYXNlEwAbAQAHMTcuMC4xNAEADHNoZWxsLnBhcnNlchMAHgEAFGZsZWV0L2xhbmd1YWdlL3NoZWxsFAAgAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAiAQAgZmxlZXQvbGFuZ3VhZ2Uvc2hlbGwvU2hlbGxQbHVnaW4HACQBAAZNb2R1bGUBABlmbGVldC9sYW5ndWFnZS9zaGVsbC91dGlsFAAnAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACYAAABkAAYAAAAAAAwACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGAAAAAAAGgAAAAAAHIAAAB0AHwAAAAAAAQAhAAAAAAAAAAAAAQAjAAEAJQApAAAABgACACEAKA=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eshell&version=1%2E48%2E261&module=shell%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "ce226b367162cde7921151804d1f7c927568683b1a597b21f22442f49e710524"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAxzaGVsbC5wYXJzZXITAAUBAAcwLjMuMTgyAQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAVZmxlZXQvY29tL2ludGVsbGlqL3NoFAALAQAbZmxlZXQvY29tL2ludGVsbGlqL3NoL2xleGVyFAANAQAcZmxlZXQvY29tL2ludGVsbGlqL3NoL3BhcnNlchQADwEAGWZsZWV0L2NvbS9pbnRlbGxpai9zaC9wc2kUABEBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAABMAAAAKAAQADAAOABAAEg=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.shell.frontend"
+            ]
+        }
+    }
+}

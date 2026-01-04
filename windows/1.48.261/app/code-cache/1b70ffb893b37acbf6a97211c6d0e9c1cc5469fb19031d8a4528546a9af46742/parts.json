@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eauthentication&version=1%2E48%2E261&module=fleet%2Eplugins%2Eauthentication%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "9e7296cf9785096ce7102d1ed038e6e298399436d34553db3dec5f9f51f9df67"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ANgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACVmbGVldC5wbHVnaW5zLmF1dGhlbnRpY2F0aW9uLmZyb250ZW5kEwAFAQAVZmxlZXQuZG9jay5jb25uZWN0b3JzEwAHAQARZmxlZXQuZnJvbnRlbmQudWkTAAkBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACwEAIGZsZWV0LnBsdWdpbnMubGljZW5zaW5nLmZyb250ZW5kEwANAQAbZmxlZXQucGx1Z2lucy5taXNjLmZyb250ZW5kEwAPAQARZmxlZXQucHJlZmVyZW5jZXMTABEBAA9mbGVldC5yaGl6b21lZGITABMBAAxmbGVldC50aGVtZXMTABUBABJmbGVldC51dGlsLm5ldHdvcmsTABcBABNpby5rdG9yLmNsaWVudC5jb3JlEwAZAQAMaW8ua3Rvci5odHRwEwAbAQAJamF2YS5iYXNlEwAdAQAHMTcuMC4xNAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAgAQAQa290bGlueC5kYXRldGltZRMAIgEACXNraWtvLmF3dBMAJAEAFGZsZWV0L2F1dGhlbnRpY2F0aW9uFAAmAQAgZmxlZXQvYXV0aGVudGljYXRpb24vYmFubmVycy9hcGkUACgBABlmbGVldC5wbHVnaW5zLmFpLmZyb250ZW5kEwAqAQAhZmxlZXQvYXV0aGVudGljYXRpb24vYmFubmVycy9pbXBsFAAsAQARZmxlZXQubW9kdWxlcy5qdm0TAC4BABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HADABAClmbGVldC9hdXRoZW50aWNhdGlvbi9BdXRoZW50aWNhdGlvblBsdWdpbgcAMgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwA0AAAAiAAGAAAAAAAPAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB6AAAAfACEAAAAAACMAAAAAACUAAAAAAAMAJwAAAAAAKQAAAAEAKwAtAAAAAgAvABQAAAAAAAEAMQABADMANQAAAAgAAwAnACkALQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.authentication.frontend"
+            ]
+        }
+    }
+}

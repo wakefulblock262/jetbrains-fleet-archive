@@ -1,0 +1,5 @@
+--add-opens=java.base/java.lang=ALL-UNNAMED
+--add-opens=java.base/java.lang=util.zip.squashed
+--add-opens=java.base/jdk.internal.module=fleet.util.modules
+--add-opens=java.base/java.util=fleet.modules.jvm
+--add-reads=org.bouncycastle.pg=java.logging

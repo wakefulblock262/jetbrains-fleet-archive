@@ -1,0 +1,55 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ereact&version=1%2E48%2E261&module=fleet%2Eplugins%2Ereact%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "81732906cd54564d352b03af6191de8b5dcf4bceb20e5f5a5f17c66856b0ea4a"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABpmbGVldC5wbHVnaW5zLnJlYWN0LmNvbW1vbhMABQEADGZsZWV0LmNvbW1vbhMABwEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAJAQAcZmxlZXQucGx1Z2lucy5yZWFjdC5wcm90b2NvbBMACwEAD2ZsZWV0LnJoaXpvbWVkYhMADQEACWphdmEuYmFzZRMADwEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAEgEAGmZsZWV0L3BsdWdpbnMvcmVhY3QvY29tbW9uFAAUAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABYAAAA6AAYAAAAAAAYACAAAAAAACgAAAAAADAAgAAAADgAAAAAAEIAAABEAEwAAAAAAAQAVAAAAAAAAAAAAAAAXAAAABAABABU="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ereact&version=1%2E48%2E261&module=fleet%2Eplugins%2Ereact%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "5e1ad2282e31c658f6b19673d6d94cc9973a600d364a6ebdea9a8dabd64f410f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABxmbGVldC5wbHVnaW5zLnJlYWN0LnByb3RvY29sEwAFAQAJamF2YS5iYXNlEwAHAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITAAoBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMADAEAGmtvdGxpbnguc2VyaWFsaXphdGlvbi5jb3JlEwAOAQAcZmxlZXQvcGx1Z2lucy9yZWFjdC9wcm90b2NvbBQAEAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwASAAAALgAGAAAAAAAEAAiAAAAJAAsAAAAAAA0AAAAAAA8AAAAAAAEAEQAAAAAAAAAAAAAAEwAAAAQAAQAR"
+                }
+            ],
+            "modules": []
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ereact&version=1%2E48%2E261&module=fleet%2Eplugins%2Ereact%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "3964cab3d3eb128415a70b88bdee6fc160e6ac9daf690fd8da59656b175f1ebb"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABxmbGVldC5wbHVnaW5zLnJlYWN0LmZyb250ZW5kEwAFAQARZmxlZXQuZnJvbnRlbmQudWkTAAcBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACQEAGmZsZWV0LnBsdWdpbnMucmVhY3QuY29tbW9uEwALAQAcZmxlZXQucGx1Z2lucy5yZWFjdC5wcm90b2NvbBMADQEAD2ZsZWV0LnJoaXpvbWVkYhMADwEACWphdmEuYmFzZRMAEQEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAUAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABYBABxmbGVldC9wbHVnaW5zL3JlYWN0L2Zyb250ZW5kFAAYAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAaAQAoZmxlZXQvcGx1Z2lucy9yZWFjdC9mcm9udGVuZC9SZWFjdFBsdWdpbgcAHAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAeAAAATAAGAAAAAAAIAAgAAAAAAAoAAAAAAAwAIAAAAA4AIAAAABAAAAAAABKAAAATABUAAAAAABcAAAAAAAEAGQAAAAAAAAAAAAEAGwABAB0AHwAAAAQAAQAZ"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.react.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ereact&version=1%2E48%2E261&module=fleet%2Eplugins%2Ereact%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "a6dd77d21cd19f0b767c683418090a7b93751250389ab2099ff25fa14599a655"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLnJlYWN0LndvcmtzcGFjZRMABQEAGmZsZWV0LnBsdWdpbnMucmVhY3QuY29tbW9uEwAHAQAcZmxlZXQucGx1Z2lucy5yZWFjdC5wcm90b2NvbBMACQEAD2ZsZWV0LndvcmtzcGFjZRMACwEACWphdmEuYmFzZRMADQEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAQAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABIBABlvcmcuamV0YnJhaW5zLmFubm90YXRpb25zEwAUAQAdZmxlZXQvcGx1Z2lucy9yZWFjdC93b3Jrc3BhY2UUABYBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABgBADJmbGVldC9wbHVnaW5zL3JlYWN0L3dvcmtzcGFjZS9SZWFjdFdvcmtzcGFjZVBsdWdpbgcAGgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAcAAAARgAGAAAAAAAHAAgAIAAAAAoAIAAAAAwAAAAAAA6AAAAPABEAAAAAABMAAAAAABUAAAAAAAEAFwAAAAAAAAAAAAEAGQABABsAHQAAAAQAAQAX"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.react.workspace"
+            ]
+        }
+    }
+}

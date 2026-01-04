@@ -1,0 +1,25 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ejson%2Eparsing&version=1%2E48%2E261&module=fleet%2Eplugins%2Ejson%2Eparsing%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "59ec87af86cab287271aa4b37ed3cf4b9a251fd9dafec49968fb44b3ada73f12"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACFmbGVldC5wbHVnaW5zLmpzb24ucGFyc2luZy5jb21tb24TAAUBACVmbGVldC5wbHVnaW5zLmludGVsbGlqLnBhcnNpbmcuY29tbW9uEwAHAQAOZmxlZXQucHJvdG9jb2wTAAkBABNmbGVldC5zY2hlbWEuY29tbW9uEwALAQAWZmxlZXQudXRpbC5sb2dnaW5nLmFwaRMADQEAD2lqLnBhcnNpbmcuY29yZRMADwEACWphdmEuYmFzZRMAEQEABzE3LjAuMTQBAAtqc29uLnBhcnNlchMAFAEADWtvdGxpbi5zdGRsaWITABYBABprb3RsaW54LnNlcmlhbGl6YXRpb24uY29yZRMAGAEAGmtvdGxpbnguc2VyaWFsaXphdGlvbi5qc29uEwAaAQAaZmxlZXQvbGFuZ3VhZ2UvanNvbi9wYXJzZXIUABwBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAHgAAAFIABgAAAAAACgAIACAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQAAAAAAASgAAAEwAVAAAAAAAXAAAAAAAZAAAAAAAbAAAAAAABAB0AAAAAAAAAAAAAAB8AAAAEAAEAHQ=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ejson%2Eparsing&version=1%2E48%2E261&module=json%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "dcc61e1a0272a1331ef1fe32d4e6693168b7c76518e9d728e898bd0385d99861"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AEgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAtqc29uLnBhcnNlchMABQEABzAuMy4xODIBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBABdmbGVldC9jb20vaW50ZWxsaWovanNvbhQACwEAJGZsZWV0L2NvbS9pbnRlbGxpai9qc29uL2hpZ2hsaWdodGluZxQADQEAG2ZsZWV0L2NvbS9pbnRlbGxpai9qc29uL3BzaRQADwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAEQAAAAgAAwAMAA4AEA=="
+                }
+            ],
+            "modules": []
+        }
+    }
+}

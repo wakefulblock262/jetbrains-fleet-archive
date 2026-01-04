@@ -1,0 +1,47 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Etailwindcss&version=1%2E48%2E261&module=fleet%2Eplugins%2Etailwindcss%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "ce932f3e4521f2601ebc176c6f736d0a1cf284f54808355f331e651723331c69"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACBmbGVldC5wbHVnaW5zLnRhaWx3aW5kY3NzLmNvbW1vbhMABQEADGZsZWV0LmNvbW1vbhMABwEAD2ZsZWV0LnJoaXpvbWVkYhMACQEACWphdmEuYmFzZRMACwEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwAOAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABABABhmbGVldC90YWlsd2luZGNzcy9jb21tb24UABIBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAFAAAADQABgAAAAAABQAIAAAAAAAKAAAAAAAMgAAADQAPAAAAAAARAAAAAAABABMAAAAAAAAAAAAAABUAAAAEAAEAEw=="
+                }
+            ],
+            "modules": []
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Etailwindcss&version=1%2E48%2E261&module=fleet%2Eplugins%2Etailwindcss%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "3b56a7554eb0f18bae7ccd73bb9da14ec066133cae68ba812b7c6bad6b418cbb"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACJmbGVldC5wbHVnaW5zLnRhaWx3aW5kY3NzLmZyb250ZW5kEwAFAQARZmxlZXQuZnJvbnRlbmQudWkTAAcBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACQEAIGZsZWV0LnBsdWdpbnMudGFpbHdpbmRjc3MuY29tbW9uEwALAQAJamF2YS5iYXNlEwANAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITABABABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAEgEAImZsZWV0L3BsdWdpbnMvdGFpbHdpbmRjc3MvZnJvbnRlbmQUABQBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABYBADRmbGVldC9wbHVnaW5zL3RhaWx3aW5kY3NzL2Zyb250ZW5kL1RhaWx3aW5kQ3NzUGx1Z2luBwAYAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABoAAABAAAYAAAAAAAYACAAAAAAACgAAAAAADAAgAAAADoAAAA8AEQAAAAAAEwAAAAAAAQAVAAAAAAAAAAAAAQAXAAEAGQAbAAAABAABABU="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.tailwindcss.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Etailwindcss&version=1%2E48%2E261&module=fleet%2Eplugins%2Etailwindcss%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "458148f4969138c0f52de97a80bb46bbb2449402f05808b3923013309ac93693"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ANwEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACNmbGVldC5wbHVnaW5zLnRhaWx3aW5kY3NzLndvcmtzcGFjZRMABQEAD2NvbS5nb29nbGUuZ3NvbhMABwEABjIuMTIuMQEADGZsZWV0LmNvbW1vbhMACgEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAMAQAbZmxlZXQucGx1Z2lucy5jb2RlLnByb3RvY29sEwAOAQAfZmxlZXQucGx1Z2lucy5qYXZhc2NyaXB0LmNvbW1vbhMAEAEAG2ZsZWV0LnBsdWdpbnMubHNwLndvcmtzcGFjZRMAEgEAGmZsZWV0LnBsdWdpbnMucnVuLnByb3RvY29sEwAUAQAbZmxlZXQucGx1Z2lucy5ydW4ud29ya3NwYWNlEwAWAQAhZmxlZXQucGx1Z2lucy5zbWFydE1vZGUud29ya3NwYWNlEwAYAQAgZmxlZXQucGx1Z2lucy50YWlsd2luZGNzcy5jb21tb24TABoBAA9mbGVldC5yaGl6b21lZGITABwBAA9mbGVldC53b3Jrc3BhY2UTAB4BAAlqYXZhLmJhc2UTACABAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAIwEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAlAQATa290bGlueC5pby5jb3JlLmp2bRMAJwEAEW9yZy5lY2xpcHNlLmxzcDRqEwApAQAZb3JnLmVjbGlwc2UubHNwNGouanNvbnJwYxMAKwEAG2ZsZWV0L3RhaWx3aW5kY3NzL3dvcmtzcGFjZRQALQEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcALwEANmZsZWV0L3RhaWx3aW5kY3NzL3dvcmtzcGFjZS9UYWlsd2luZENzc1dvcmtzcGFjZVBsdWdpbgcAMQEABk1vZHVsZQEAC3RhaWx3aW5kY3NzFAA0AQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADADMAAACIAAYAAAAAABIACAAAAAkACwAAAAAADQAAAAAADwAAAAAAEQAAAAAAEwAAAAAAFQAAAAAAFwAAAAAAGQAAAAAAGwAAAAAAHQAAAAAAHwAAAAAAIYAAACIAJAAAAAAAJgAAAAAAKAAAAAAAKgAAAAAALAAAAAAAAQAuAAAAAAAAAAAAAQAwAAEAMgA2AAAABgACAC4ANQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.tailwindcss.workspace"
+            ]
+        }
+    }
+}

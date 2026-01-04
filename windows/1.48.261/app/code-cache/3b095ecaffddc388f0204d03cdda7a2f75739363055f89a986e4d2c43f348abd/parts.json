@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EpluginManagement&version=1%2E48%2E261&module=fleet%2Eplugins%2EpluginManagement%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "940f7c4e0be7dc686c34e5ad212e73018291be96a56d17779460bf02c957867f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AQAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACdmbGVldC5wbHVnaW5zLnBsdWdpbk1hbmFnZW1lbnQuZnJvbnRlbmQTAAUBAA1mbGVldC5idW5kbGVzEwAHAQAPZmxlZXQuY29kZWNhY2hlEwAJAQAOZmxlZXQuZG9jay5hcGkTAAsBABVmbGVldC5kb2NrLmNvbm5lY3RvcnMTAA0BABFmbGVldC5mcm9udGVuZC51aRMADwEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwARAQAOZmxlZXQubm9yaWEudWkTABMBAB9mbGVldC5wbHVnaW5zLnNldHRpbmdzLmZyb250ZW5kEwAVAQARZmxlZXQucHJlZmVyZW5jZXMTABcBAA5mbGVldC5wcm90b2NvbBMAGQEAD2ZsZWV0LnJoaXpvbWVkYhMAGwEACWZsZWV0LnJwYxMAHQEAD2ZsZWV0LnV0aWwuY29yZRMAHwEAEmZsZWV0LnV0aWwubmV0d29yaxMAIQEAE2lvLmt0b3IuY2xpZW50LmNvcmUTACMBAAxpby5rdG9yLmh0dHATACUBAAlqYXZhLmJhc2UTACcBAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAKgEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAsAQAaa290bGlueC5zZXJpYWxpemF0aW9uLmNvcmUTAC4BABprb3RsaW54LnNlcmlhbGl6YXRpb24uanNvbhMAMAEACXNraWtvLmF3dBMAMgEAFWZsZWV0L3NldHRpbmdzL3BsdWdpbhQANAEAHWZsZWV0L3NldHRpbmdzL3BsdWdpbi9sb2FkaW5nFAA2AQAhZmxlZXQvc2V0dGluZ3MvcGx1Z2luL21hcmtldHBsYWNlFAA4AQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwA6AQAtZmxlZXQvc2V0dGluZ3MvcGx1Z2luL1BsdWdpbnNNYW5hZ2VtZW50UGx1Z2luBwA8AQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAD4AAACsAAYAAAAAABYACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGAAAAAAAGgAAAAAAHAAAAAAAHgAAAAAAIAAAAAAAIgAAAAAAJAAAAAAAJgAAAAAAKIAAACkAKwAAAAAALQAAAAAALwAAAAAAMQAAAAAAMwAAAAAAAwA1AAAAAAA3AAAAAAA5AAAAAAAAAAAAAQA7AAEAPQA/AAAACAADADUANwA5"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.pluginManagement.frontend"
+            ]
+        }
+    }
+}

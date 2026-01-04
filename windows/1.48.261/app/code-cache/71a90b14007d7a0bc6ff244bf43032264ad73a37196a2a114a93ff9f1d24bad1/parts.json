@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egrazie%2Ekotlin&version=1%2E48%2E261&module=fleet%2Eplugins%2Egrazie%2Ekotlin%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "88f216baa91286842324ef6e1b6ee291687b0252e24d0fff018f46c780fabb6c"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACRmbGVldC5wbHVnaW5zLmdyYXppZS5rb3RsaW4uZnJvbnRlbmQTAAUBAA5mbGVldC5hc3QuY29yZRMABwEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAJAQAdZmxlZXQucGx1Z2lucy5ncmF6aWUuZnJvbnRlbmQTAAsBAB1mbGVldC5wbHVnaW5zLmtvdGxpbi5mcm9udGVuZBMADQEAG2ZsZWV0LnBsdWdpbnMubGFuZy5mcm9udGVuZBMADwEAD2lqLnBhcnNpbmcuY29yZRMAEQEACWphdmEuYmFzZRMAEwEABzE3LjAuMTQBAA1rb3RsaW4ucGFyc2VyEwAWAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABgBABtmbGVldC9wbHVnaW5zL2dyYXppZS9rb3RsaW4UABoBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABwBAC5mbGVldC9wbHVnaW5zL2dyYXppZS9rb3RsaW4vR3JhemllS290bGluUGx1Z2luBwAeAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACAAAABSAAYAAAAAAAkACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFIAAABUAFwAAAAAAGQAAAAAAAQAbAAAAAAAAAAAAAQAdAAEAHwAhAAAABAABABs="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.grazie.kotlin.frontend"
+            ]
+        }
+    }
+}

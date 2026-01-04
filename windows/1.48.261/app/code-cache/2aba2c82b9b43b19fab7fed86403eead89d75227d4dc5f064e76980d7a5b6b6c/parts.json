@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EcodeVisionCore&version=1%2E48%2E261&module=fleet%2Eplugins%2EcodeVisionCore%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "b60d43f4860c29e42b5e0b1077a2380f10ecfcc83a998449cc1907aaf5ed7964"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACVmbGVldC5wbHVnaW5zLmNvZGVWaXNpb25Db3JlLmZyb250ZW5kEwAFAQARZmxlZXQuZnJvbnRlbmQudWkTAAcBABtmbGVldC5wbHVnaW5zLmNvZGUuZnJvbnRlbmQTAAkBABpmbGVldC5wbHVnaW5zLnJ1bi5mcm9udGVuZBMACwEAGmZsZWV0LnBsdWdpbnMucnVuLnByb3RvY29sEwANAQAJamF2YS5iYXNlEwAPAQAHMTcuMC4xNAEAEnV0aWwuYmFzZS5zcXVhc2hlZBMAEgEAHWZsZWV0L2Zyb250ZW5kL2NvZGVWaXNpb25Db3JlFAAUAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAWAQAuZmxlZXQvZnJvbnRlbmQvY29kZVZpc2lvbkNvcmUvQ29kZVZpc2lvblBsdWdpbgcAGAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAaAAAAQAAGAAAAAAAGAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABCAAAARABMAAAAAAAEAFQAAAAAAAAAAAAEAFwABABkAGwAAAAQAAQAV"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.codeVisionCore.frontend"
+            ]
+        }
+    }
+}

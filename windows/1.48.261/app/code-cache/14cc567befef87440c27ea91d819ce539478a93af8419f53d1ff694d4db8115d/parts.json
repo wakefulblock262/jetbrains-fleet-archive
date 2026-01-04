@@ -1,0 +1,27 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Epython%2Eai&version=1%2E48%2E261&module=code%2Dfeatures%2Dpython%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "1d55da843173d0e9fd5339d026d5ac889169ae82b11543e23310cc62781c7d06"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABhjb2RlLmZlYXR1cmVzLnB5dGhvbi5qdm0TAAUBABQxLjAuMC1iZXRhLjQzKzAuNC4yNwEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAHmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbhQACwEAKGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb2RlYmxvY2sUAA0BADthaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9weXRob24vY29tcGxldGlvbi9jb250ZXh0L2V4dHJhY3RvchQADwEANmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb21wbGV0aW9uL2NvbnRleHQvcGF0aBQAEQEAO2FpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb21wbGV0aW9uL2NvbnRleHQvcHJvdmlkZXJzFAATAQA6YWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvcHl0aG9uL2NvbXBsZXRpb24vY29udGV4dC9zdHJhdGVneRQAFQEAM2FpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9jb21wbGV0aW9uL3Byb3ZpZGVycxQAFwEAJmFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL3B5dGhvbi9yZXNvbHZlFAAZAQAuYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvcHl0aG9uL3Rlc3QvZ2VuZXJhdGlvbhQAGwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAAHQAAABQACQAMAA4AEAASABQAFgAYABoAHA=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Epython%2Eai&version=1%2E48%2E261&module=fleet%2Eplugins%2Epython%2Eai%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "7ace5ff0673125cf38798a87c769dab018e5dce3c53dad51f3b1194cd35879f0"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ALAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACBmbGVldC5wbHVnaW5zLnB5dGhvbi5haS5mcm9udGVuZBMABQEAGGNvZGUuZmVhdHVyZXMucHl0aG9uLmp2bRMABwEAIWNvZGUuZmVhdHVyZXMudGVzdC5nZW5lcmF0aW9uLmp2bRMACQEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwALAQAZZmxlZXQucGx1Z2lucy5haS5mcm9udGVuZBMADQEAHWZsZWV0LnBsdWdpbnMucHl0aG9uLmZyb250ZW5kEwAPAQAOZmxlZXQucHJvdG9jb2wTABEBAA9mbGVldC5yaGl6b21lZGITABMBAA9pai5wYXJzaW5nLmNvcmUTABUBAAlqYXZhLmJhc2UTABcBAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAGgEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAcAQANcHl0aG9uLnBhcnNlchMAHgEAF2ZsZWV0L3BsdWdpbnMvcHl0aG9uL2FpFAAgAQARZmxlZXQubW9kdWxlcy5qdm0TACIBABlmbGVldC5wbHVnaW5zLnB5dGhvbi50ZXN0EwAkAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAmAQAmZmxlZXQvcGx1Z2lucy9weXRob24vYWkvUHl0aG9uQWlQbHVnaW4HACgBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAKgAAAGoABgAAAAAADAAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQAAAAAAASAAAAAAAUAAAAAAAWAAAAAAAYgAAAGQAbAAAAAAAdAAAAAAAfAAAAAAABACEAAAADACMAJQAUAAAAAAABACcAAQApACsAAAAEAAEAIQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.python.ai.frontend"
+            ]
+        }
+    }
+}

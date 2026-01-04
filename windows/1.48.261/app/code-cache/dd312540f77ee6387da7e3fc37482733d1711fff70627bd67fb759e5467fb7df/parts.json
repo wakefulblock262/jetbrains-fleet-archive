@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ekeymaps%2EEmacs&version=1%2E48%2E261&module=fleet%2Eplugins%2Ekeymaps%2EEmacs%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "d580f44f0a582a064934bbbd5a7792bf296e48d9cf38c1eab5f494b49f7ad0b3"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACRmbGVldC5wbHVnaW5zLmtleW1hcHMuRW1hY3MuZnJvbnRlbmQTAAUBAA5mbGVldC5kb2NrLmFwaRMABwEADmZsZWV0LmZyb250ZW5kEwAJAQAJamF2YS5iYXNlEwALAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITAA4BABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAEAEAE2ZsZWV0L2tleW1hcHMvZW1hY3MUABIBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABQBACVmbGVldC9rZXltYXBzL2VtYWNzL0VtYWNzS2V5bWFwUGx1Z2luBwAWAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABgAAAA6AAYAAAAAAAUACAAAAAAACgAAAAAADIAAAA0ADwAAAAAAEQAAAAAAAQATAAAAAAAAAAAAAQAVAAEAFwAZAAAABAABABM="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.keymaps.Emacs.frontend"
+            ]
+        }
+    }
+}

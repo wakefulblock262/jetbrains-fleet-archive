@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EnavigationBar&version=1%2E48%2E261&module=fleet%2Eplugins%2EnavigationBar%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "03a8c9c0faa977012523305d36b92a20b93d6a40d4d5e268cdf4e61b7577eb77"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACRmbGVldC5wbHVnaW5zLm5hdmlnYXRpb25CYXIuZnJvbnRlbmQTAAUBABFmbGVldC5mcm9udGVuZC51aRMABwEAH2ZsZWV0LnBsdWdpbnMuZmlsZXRyZWUuZnJvbnRlbmQTAAkBABtmbGVldC5wbHVnaW5zLmxhbmcuZnJvbnRlbmQTAAsBAAlqYXZhLmJhc2UTAA0BAAcxNy4wLjE0AQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABABABJ1dGlsLmJhc2Uuc3F1YXNoZWQTABIBABxmbGVldC9mcm9udGVuZC9uYXZpZ2F0aW9uQmFyFAAUAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAWAQAwZmxlZXQvZnJvbnRlbmQvbmF2aWdhdGlvbkJhci9OYXZpZ2F0aW9uQmFyUGx1Z2luBwAYAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABoAAABAAAYAAAAAAAYACAAAAAAACgAAAAAADAAAAAAADoAAAA8AEQAAAAAAEwAAAAAAAQAVAAAAAAAAAAAAAQAXAAEAGQAbAAAABAABABU="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.navigationBar.frontend"
+            ]
+        }
+    }
+}

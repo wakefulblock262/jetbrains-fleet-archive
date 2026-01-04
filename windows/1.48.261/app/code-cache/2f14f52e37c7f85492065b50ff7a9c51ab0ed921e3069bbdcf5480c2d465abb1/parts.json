@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ereporting%2Efahrplan%2Eui&version=1%2E48%2E261&module=fleet%2Eplugins%2Ereporting%2Efahrplan%2Eui%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "4d1af48aa9b1baab6db119f0303f5fae12a5491b4215c258d9bb77738b647110"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACxmbGVldC5wbHVnaW5zLnJlcG9ydGluZy5mYWhycGxhbi51aS5mcm9udGVuZBMABQEAEWZsZWV0LmZyb250ZW5kLnVpEwAHAQARZmxlZXQucHJlZmVyZW5jZXMTAAkBABNmbGVldC5yZXBvcnRpbmcuYXBpEwALAQAWZmxlZXQucmVwb3J0aW5nLnNoYXJlZBMADQEACWphdmEuYmFzZRMADwEABzE3LjAuMTQBAA1rb3RsaW4uc3RkbGliEwASAQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABQBAAlza2lrby5hd3QTABYBABtmbGVldC9yZXBvcnRpbmcvZmFocnBsYW4vdWkUABgBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABoBACpmbGVldC9yZXBvcnRpbmcvZmFocnBsYW4vdWkvRmFocnBsYW5QbHVnaW4HABwBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAHgAAAEwABgAAAAAACAAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQgAAAEQATAAAAAAAVAAAAAAAXAAAAAAABABkAAAAAAAAAAAABABsAAQAdAB8AAAAEAAEAGQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.reporting.fahrplan.ui.frontend"
+            ]
+        }
+    }
+}

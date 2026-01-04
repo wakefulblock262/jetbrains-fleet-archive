@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Ekeymaps%2ESublimeText&version=1%2E48%2E261&module=fleet%2Eplugins%2Ekeymaps%2ESublimeText%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "1a1d3cf2792f36ecc73feebb96867e7cd145f6110e8bc7c3ee6229280b09b6c5"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACpmbGVldC5wbHVnaW5zLmtleW1hcHMuU3VibGltZVRleHQuZnJvbnRlbmQTAAUBAA5mbGVldC5kb2NrLmFwaRMABwEADmZsZWV0LmZyb250ZW5kEwAJAQAJamF2YS5iYXNlEwALAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITAA4BABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAEAEAGWZsZWV0L2tleW1hcHMvc3VibGltZVRleHQUABIBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABQBADFmbGVldC9rZXltYXBzL3N1YmxpbWVUZXh0L1N1YmxpbWVUZXh0S2V5bWFwUGx1Z2luBwAWAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABgAAAA6AAYAAAAAAAUACAAAAAAACgAAAAAADIAAAA0ADwAAAAAAEQAAAAAAAQATAAAAAAAAAAAAAQAVAAEAFwAZAAAABAABABM="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.keymaps.SublimeText.frontend"
+            ]
+        }
+    }
+}

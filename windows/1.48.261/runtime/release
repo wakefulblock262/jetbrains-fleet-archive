@@ -1,0 +1,2 @@
+JAVA_VERSION="21.0.7"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop org.jetbrains.annotations jdk.unsupported util.zip.squashed fleet.util.modules java.compiler java.instrument java.logging java.security.sasl java.naming java.net.http java.rmi java.transaction.xa java.sql jdk.accessibility jdk.crypto.ec jdk.crypto.cryptoki jdk.jdwp.agent java.management jdk.management jdk.net java.security.jgss jdk.security.auth fleet.dock.bootstrap"

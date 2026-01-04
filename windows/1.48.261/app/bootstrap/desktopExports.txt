@@ -1,0 +1,14 @@
+--add-opens=java.base/java.lang=ALL-UNNAMED
+--add-opens=java.base/java.lang=util.zip.squashed
+--add-opens=java.base/jdk.internal.module=fleet.util.modules
+--add-opens=java.base/java.util=fleet.modules.jvm
+--add-reads=org.bouncycastle.pg=java.logging
+--add-exports=java.desktop/sun.java2d=ALL-UNNAMED
+--add-exports=java.desktop/sun.awt=ALL-UNNAMED
+--add-opens=java.desktop/java.awt=ALL-UNNAMED
+--add-exports=java.desktop/sun.java2d=fleet.noria.windowManagement.impl
+--add-exports=java.desktop/sun.awt=fleet.noria.windowManagement.impl
+--add-opens=java.desktop/java.awt=fleet.noria.windowManagement.impl
+--add-exports=java.desktop/sun.font=fleet.noria.awt
+--add-exports=java.desktop/sun.awt=fleet.noria.awt
+--add-opens=java.desktop/sun.awt.windows=fleet.noria.windowManagement.impl

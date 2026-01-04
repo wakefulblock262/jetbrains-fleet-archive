@@ -1,0 +1,27 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EaiCompletion%2Ejava&version=1%2E48%2E261&module=code%2Dfeatures%2Djava%2Djvm%2D1%2E0%2E0%2Dbeta%2E43%2B0%2E4%2E27%2Ejar",
+                        "hash": "90631d7cf0a2d65180811ca06bafb330fea1b73b2f1d27861d953248d3a1ecee"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABZjb2RlLmZlYXR1cmVzLmphdmEuanZtEwAFAQAUMS4wLjAtYmV0YS40MyswLjQuMjcBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBABxhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhFAALAQAmYWkvZ3JhemllL2NvZGUvZmVhdHVyZXMvamF2YS9jb2RlYmxvY2sUAA0BAC9haS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhL2NvbXBsZXRpb24vY29udGV4dBQADwEAOWFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvY29tcGxldGlvbi9jb250ZXh0L2V4dHJhY3RvchQAEQEANGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvY29tcGxldGlvbi9jb250ZXh0L3BhdGgUABMBADlhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhL2NvbXBsZXRpb24vY29udGV4dC9wcm92aWRlcnMUABUBADhhaS9ncmF6aWUvY29kZS9mZWF0dXJlcy9qYXZhL2NvbXBsZXRpb24vY29udGV4dC9zdHJhdGVneRQAFwEAJGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvcmVzb2x2ZRQAGQEALGFpL2dyYXppZS9jb2RlL2ZlYXR1cmVzL2phdmEvdGVzdC9nZW5lcmF0aW9uFAAbAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAdAAAAFAAJAAwADgAQABIAFAAWABgAGgAc"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EaiCompletion%2Ejava&version=1%2E48%2E261&module=fleet%2Eplugins%2Eai%2Ecompletion%2Ejava%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "30ade4159c2ec8c20268f5bfa8e946edcddb40ff3b092a5233c7cb1bbf3afb57"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AOgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAClmbGVldC5wbHVnaW5zLmFpLmNvbXBsZXRpb24uamF2YS5mcm9udGVuZBMABQEAGGNvZGUuZmVhdHVyZXMuY29tbW9uLmp2bRMABwEAImNvZGUuZmVhdHVyZXMuY29tcGxldGlvbi50YXNrcy5qdm0TAAkBABZjb2RlLmZlYXR1cmVzLmphdmEuanZtEwALAQAUY29kZS5maWxlcy5tb2RlbC5qdm0TAA0BABZjb2RlLmluc2lnaHQubW9kZWwuanZtEwAPAQAOZmxlZXQuYXN0LmNvcmUTABEBABVmbGVldC5kb2NrLmNvbm5lY3RvcnMTABMBAA5mbGVldC5mcm9udGVuZBMAFQEAEWZsZWV0LmZyb250ZW5kLnVpEwAXAQAkZmxlZXQucGx1Z2lucy5haS5jb21wbGV0aW9uLmZyb250ZW5kEwAZAQAZZmxlZXQucGx1Z2lucy5haS5mcm9udGVuZBMAGwEAG2ZsZWV0LnBsdWdpbnMuamF2YS5mcm9udGVuZBMAHQEAG2ZsZWV0LnBsdWdpbnMubGFuZy5mcm9udGVuZBMAHwEACWphdmEuYmFzZRMAIQEABzE3LjAuMTQBAAtqYXZhLnBhcnNlchMAJAEADW1vZGVsLmpldC5qdm0TACYBAA1tb2RlbC5ubHAuanZtEwAoAQAObW9kZWwudGFzay5qdm0TACoBABlubHAuZW5jb2Rlci5zdGFyY29kZXIuanZtEwAsAQAZb3JnLmpldGJyYWlucy5hbm5vdGF0aW9ucxMALgEAEHV0aWxzLmNvbW1vbi5qdm0TADABACBmbGVldC9wbHVnaW5zL2FpL2NvbXBsZXRpb24vamF2YRQAMgEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcANAEAN2ZsZWV0L3BsdWdpbnMvYWkvY29tcGxldGlvbi9qYXZhL0FpQ29tcGxldGlvbkphdmFQbHVnaW4HADYBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAOAAAAJoABgAAAAAAFQAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQAAAAAAASAAAAAAAUAAAAAAAWAAAAAAAYAAAAAAAaAAAAAAAcAAAAAAAeAAAAAAAgAAAAAAAigAAAIwAlAAAAAAAnAAAAAAApAAAAAAArAAAAAAAtAAAAAAAvAAAAAAAxAAAAAAABADMAAAAAAAAAAAABADUAAQA3ADkAAAAEAAEAMw=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.ai.completion.java.frontend"
+            ]
+        }
+    }
+}

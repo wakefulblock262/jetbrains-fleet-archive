@@ -1,0 +1,27 @@
+{
+    "formatVersion": 0,
+    "id": "SHIP",
+    "version": "1.48.261",
+    "dependencies": {},
+    "compatibleShipVersionRange": {
+        "from": "1.48.261",
+        "to": "7449.8191.16383"
+    },
+    "signature": "LS0tLS1CRUdJTiBQR1AgU0lHTkFUVVJFLS0tLS0KCndzRGNCQUFCQ0FBUUJRSm9MQ0pjQ1JEQ0ZJa0F2TlBDcndBQXpETU1BTFovODFNV1NyRFU1MWN4TXJhQTVRVEoKeWYrOGdkV2FwdVIyZUNXSmNmdkh2ZG1XRmNXTTh2QytJK0N3N0R1bHlXVW1heDAzY0k3cW1IVkxXZmxQVWxDbQpxaXFqd2FOZ09BbXhyZ1pQKzJhWE9xaUt3QjhxamRyeXU1QzNqUTFWMFluRGxhcVA0OVFqUFc2clhkcVNGRVFVCno5bTZzWFNhVDJxRFhvanA3eGl4N0ZRZ2dNQ2pRTlh6Y1UwK2ZDMUR6MElhelpIN3FGMXI1ODFZbDBIRnkyYXUKb1lxNW9KVk41WVJmYUI1UUJzdDRsQWVQVTZ3L1dsSWN6YlJQSjdTdngvYytPSjhVZ1puUmorRVhVem1kUWxvSQpmbEZuWjBnUnhqVVAya3lNaGt1TEFqMnYxYVhLOER0QnorQzlwdFh5SVRPVjZCbXpzNkdpN3MzNHplVTR0WkprCnRwS0h6RGtCTVlBanBoQzRhWHBIem5RNzYzbWJ2a3I3dkJVTUZRMmV6M1Y0cW1IbzBRaTdraHZTU3MxeFlLOGUKTzE4NU5UU1RYQkkyNWJlK1RjcnptcDhTVHhsN2FmSERZQnNFbzhoanVRdUdUSTlQVC9oQ1B4eWhEb0I0ZkVPQgpqRkV3VFd1dm1GTkRleGtzekR4RFpmNFM5V0poRWt3V1c1amh2T1hBVVE9PQo9bjZQVQotLS0tLUVORCBQR1AgU0lHTkFUVVJFLS0tLS0K",
+    "meta": {
+        "buildDate": "1747699200",
+        "description": "Bundled plugin.",
+        "dockApiVersion": "9a8b069b8c49387e895df55f092b7e82428b903a14d7cc93ac5b890e6e1afe1d",
+        "fsd-binaries-linux_aarch64": "{\"type\":\"Remote\",\"url\":\"https://plugins.jetbrains.com/fleet-parts/fsdaemon/linux_aarch64/fsdaemon-1.48.261\",\"hash\":\"2255db82862a88fa61c8add19f9ec1656b26139dcb18a9c84f2a4a3677d4c4af\"}",
+        "fsd-binaries-linux_x64": "{\"type\":\"Remote\",\"url\":\"https://plugins.jetbrains.com/fleet-parts/fsdaemon/linux_x64/fsdaemon-1.48.261\",\"hash\":\"dfe8f762db2cea7fb3a942526e1537763c138205c39fd59ee2bdad229a520afe\"}",
+        "fsd-binaries-macos_aarch64": "{\"type\":\"Remote\",\"url\":\"https://plugins.jetbrains.com/fleet-parts/fsdaemon/macos_aarch64/fsdaemon-1.48.261\",\"hash\":\"fc00b581c5bc399406a67e241b45237e5312a94b5deadfb9455db928b1aa407f\"}",
+        "fsd-binaries-macos_x64": "{\"type\":\"Remote\",\"url\":\"https://plugins.jetbrains.com/fleet-parts/fsdaemon/macos_x64/fsdaemon-1.48.261\",\"hash\":\"8943144779a038deaba5d06511a92d532913c83097a65917b6c01782ef4fb341\"}",
+        "fsd-binaries-windows_aarch64": "{\"type\":\"Remote\",\"url\":\"https://plugins.jetbrains.com/fleet-parts/fsdaemon/windows_aarch64/fsdaemon-1.48.261.exe\",\"hash\":\"58f81f0716487b7e38dee018873582cff6730f6517d97e51208a9a99643e64fb\"}",
+        "fsd-binaries-windows_x64": "{\"type\":\"Remote\",\"url\":\"https://plugins.jetbrains.com/fleet-parts/fsdaemon/windows_x64/fsdaemon-1.48.261.exe\",\"hash\":\"e9ebce16c8e256026e15424bad22986f40259f9c3f98453568b9cc790ea8137b\"}",
+        "partsCoordinates": "{\"type\":\"Remote\",\"url\":\"https://plugins.jetbrains.com/api/fleet/download?xmlId=SHIP&version=1%2E48%2E261&module=parts%2Ejson\",\"hash\":\"1418a828182d266fecdd24c87a38cdde760f3c7160682bc99dafcff4520bf61a\"}",
+        "readableName": "SHIP",
+        "vendor": "JetBrains s.r.o.",
+        "vendorName": "JetBrains",
+        "visible": "false"
+    }
+}

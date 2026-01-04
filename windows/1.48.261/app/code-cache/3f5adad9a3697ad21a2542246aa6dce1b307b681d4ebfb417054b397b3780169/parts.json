@@ -1,0 +1,65 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Epython&version=1%2E48%2E261&module=fleet%2Eplugins%2Epython%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "5e41e65e2ac508a0c89ed993a61b1d9e9f214da1aeea6af5ab42c752fe40d92c"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AMAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLnB5dGhvbi5jb21tb24TAAUBAAxmbGVldC5jb21tb24TAAcBAB1mbGVldC5wbHVnaW5zLnB5dGhvbi5wcm90b2NvbBMACQEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMACwEAGmZsZWV0LnBsdWdpbnMucnVuLnByb3RvY29sEwANAQAeZmxlZXQucGx1Z2lucy5zbWFydE1vZGUuY29tbW9uEwAPAQAgZmxlZXQucGx1Z2lucy50b29sY2hhaW4ucHJvdG9jb2wTABEBAA9mbGVldC5yaGl6b21lZGITABMBABVmbGVldC5zY2hlbWEucHJvdG9jb2wTABUBABZmbGVldC51dGlsLmxvZ2dpbmcuYXBpEwAXAQAJamF2YS5iYXNlEwAZAQAHMTcuMC4xNAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAcAQATZmxlZXQvcHl0aG9uL2NvbW1vbhQAHgEAEWZsZWV0Lm1vZHVsZXMuanZtEwAgAQAdZmxlZXQucGx1Z2lucy5weXRob24uZnJvbnRlbmQTACIBAB5mbGVldC5wbHVnaW5zLnB5dGhvbi53b3Jrc3BhY2UTACQBAA5rb3RsaW4ucmVmbGVjdBMAJgEAGmtvdGxpbnguc2VyaWFsaXphdGlvbi5jb3JlEwAoAQAZZmxlZXQvcHl0aG9uL2NvbW1vbi9jb25kYRQAKgEAGWZsZWV0L3B5dGhvbi9jb21tb24vcnVudjIUACwBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMALgAAAHgABgAAAAAACwAIAAAAAAAKACAAAAAMAAAAAAAOAAAAAAAQAAAAAAASAAAAAAAUAAAAAAAWAAAAAAAYAAAAAAAagAAAGwAdAAAAAAADAB8AAAAGACEAIwAlABQAJwApACsAAAACACMAJQAtAAAAAgAjACUAAAAAAAAALwAAAAgAAwAfACsALQ=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Epython&version=1%2E48%2E261&module=fleet%2Eplugins%2Epython%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "4c3ed5b2b5f59131197e402a6e43117255cfc37eb2249defebcfd7bbfb7fda60"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLnB5dGhvbi5wcm90b2NvbBMABQEAHGZsZWV0LnBsdWdpbnMuZGVidWcucHJvdG9jb2wTAAcBABpmbGVldC5wbHVnaW5zLnJ1bi5wcm90b2NvbBMACQEAH2ZsZWV0LnBsdWdpbnMudGVhbWNpdHkucHJvdG9jb2wTAAsBACBmbGVldC5wbHVnaW5zLnRvb2xjaGFpbi5wcm90b2NvbBMADQEADmZsZWV0LnByb3RvY29sEwAPAQAVZmxlZXQuc2NoZW1hLnByb3RvY29sEwARAQAPZmxlZXQudXRpbC5jb3JlEwATAQAJamF2YS5iYXNlEwAVAQAHMTcuMC4xNAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAYAQAVZmxlZXQvcHl0aG9uL3Byb3RvY29sFAAaAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABwAAABMAAYAAAAAAAkACAAAAAAACgAAAAAADAAgAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFoAAABcAGQAAAAAAAQAbAAAAAAAAAAAAAAAdAAAABAABABs="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.python.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Epython&version=1%2E48%2E261&module=fleet%2Eplugins%2Epython%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "50de26a09e0469430418fa7628880cb2faeb59d4f9969abd571150ba8ed116dd"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ASgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLnB5dGhvbi5mcm9udGVuZBMABQEAFWZsZWV0LmJvcmluZ0Zvcm1hdHRlchMABwEAG2ZsZWV0LnBsdWdpbnMuY29kZS5mcm9udGVuZBMACQEAGmZsZWV0LnBsdWdpbnMuZGVidWcuY29tbW9uEwALAQAcZmxlZXQucGx1Z2lucy5kZWJ1Zy5mcm9udGVuZBMADQEAHGZsZWV0LnBsdWdpbnMuZGVidWcucHJvdG9jb2wTAA8BACVmbGVldC5wbHVnaW5zLmludGVsbGlqLnBhcnNpbmcuY29tbW9uEwARAQAnZmxlZXQucGx1Z2lucy5pbnRlbGxpai5wYXJzaW5nLmZyb250ZW5kEwATAQAhZmxlZXQucGx1Z2lucy5qc29uLnBhcnNpbmcuY29tbW9uEwAVAQAbZmxlZXQucGx1Z2lucy5sYW5nLmZyb250ZW5kEwAXAQAbZmxlZXQucGx1Z2lucy5weXRob24uY29tbW9uEwAZAQAqZmxlZXQucGx1Z2lucy5weXRob25MaWtlVXRpbGl0aWVzLmZyb250ZW5kEwAbAQAYZmxlZXQucGx1Z2lucy5ydW4uY29tbW9uEwAdAQAaZmxlZXQucGx1Z2lucy5ydW4uZnJvbnRlbmQTAB8BAB1mbGVldC5wbHVnaW5zLnNjaGVtYS5mcm9udGVuZBMAIQEAH2ZsZWV0LnBsdWdpbnMuc2V0dGluZ3MuZnJvbnRlbmQTACMBAB1mbGVldC5wbHVnaW5zLnRlYW1jaXR5LmNvbW1vbhMAJQEAIGZsZWV0LnBsdWdpbnMudG9vbGNoYWluLmZyb250ZW5kEwAnAQAPaWoucGFyc2luZy5jb3JlEwApAQAJamF2YS5iYXNlEwArAQAHMTcuMC4xNAEAC2pzb24ucGFyc2VyEwAuAQANcHl0aG9uLnBhcnNlchMAMAEAEnV0aWwuYmFzZS5zcXVhc2hlZBMAMgEAFWZsZWV0L2xhbmd1YWdlL3B5dGhvbhQANAEAEWZsZWV0Lm1vZHVsZXMuanZtEwA2AQAkZmxlZXQucGx1Z2lucy5ncmF6aWUucHl0aG9uLmZyb250ZW5kEwA4AQAgZmxlZXQucGx1Z2lucy5weXRob24uYWkuZnJvbnRlbmQTADoBABlmbGVldC5wbHVnaW5zLnB5dGhvbi50ZXN0EwA8AQAPZmxlZXQucmhpem9tZWRiEwA+AQAcZmxlZXQvbGFuZ3VhZ2UvcHl0aG9uL3NjaGVtYRQAQAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAQgEAImZsZWV0L2xhbmd1YWdlL3B5dGhvbi9QeXRob25QbHVnaW4HAEQBAAZNb2R1bGUBABtmbGVldC9sYW5ndWFnZS9weXRob24vcnVudjIUAEcBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMARgAAALQABgAAAAAAFgAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQAAAAAAASAAAAAAAUAAAAAAAWAAAAAAAYAAAAAAAaAAAAAAAcAAAAAAAeAAAAAAAgAAAAAAAiAAAAAAAkAAAAAAAmAAAAAAAoAAAAAAAqAAAAAAAsgAAALQAvAAAAAAAxAAAAAAAzAAAAAAACADUAAAAFADcAOQA7AD0APwBBAAAAAgA3AD8AAAAAAAEAQwABAEUASQAAAAgAAwA1AEgAQQ=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Epython&version=1%2E48%2E261&module=python%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "836cedb835986478182803345acd31875e67b7858633a7662b1bcce51e41dca5"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA1weXRob24ucGFyc2VyEwAFAQAHMC4zLjE4MgEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAGmZsZWV0L2NvbS9qZXRicmFpbnMvcHl0aG9uFAALAQAgZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vbGV4ZXIUAA0BACJmbGVldC9jb20vamV0YnJhaW5zL3B5dGhvbi9wYXJzaW5nFAAPAQAqZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcGFyc2luZy9jb25zb2xlFAARAQAeZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcHNpFAATAQAnZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcmVxdWlyZW1lbnRzFAAVAQArZmxlZXQvY29tL2pldGJyYWlucy9weXRob24vcmVxdWlyZW1lbnRzL3BzaRQAFwEAMmZsZWV0L2NvbS9qZXRicmFpbnMvcHl0aG9uL3JlcXVpcmVtZW50cy9wc2kvcGFyc2VyFAAZAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAbAAAAEgAIAAwADgAQABIAFAAWABgAGg=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.python.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Epython&version=1%2E48%2E261&module=fleet%2Eplugins%2Epython%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "24393b840c405264ea18aca62f67742616613b1412d1fddd86ed3bd61f7990d6"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ANgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB5mbGVldC5wbHVnaW5zLnB5dGhvbi53b3Jrc3BhY2UTAAUBABRmbGVldC5rZXJuZWwucGx1Z2lucxMABwEAGmZsZWV0LnBsdWdpbnMuZGVidWcuY29tbW9uEwAJAQAdZmxlZXQucGx1Z2lucy5kZWJ1Zy53b3Jrc3BhY2UTAAsBACBmbGVldC5wbHVnaW5zLmludGVsbGlqLndvcmtzcGFjZRMADQEAG2ZsZWV0LnBsdWdpbnMucHl0aG9uLmNvbW1vbhMADwEAG2ZsZWV0LnBsdWdpbnMucnVuLndvcmtzcGFjZRMAEQEAHWZsZWV0LnBsdWdpbnMudGVhbWNpdHkuY29tbW9uEwATAQAgZmxlZXQucGx1Z2lucy50ZWFtY2l0eS53b3Jrc3BhY2UTABUBAB5mbGVldC5wbHVnaW5zLnRvb2xjaGFpbi5jb21tb24TABcBACFmbGVldC5wbHVnaW5zLnRvb2xjaGFpbi53b3Jrc3BhY2UTABkBAA9mbGVldC53b3Jrc3BhY2UTABsBAAlqYXZhLmJhc2UTAB0BAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAIAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAiAQAaa290bGlueC5zZXJpYWxpemF0aW9uLmNvcmUTACQBABZmbGVldC93b3Jrc3BhY2UvcHl0aG9uFAAmAQARZmxlZXQubW9kdWxlcy5qdm0TACgBAA9mbGVldC5yaGl6b21lZGITACoBACBmbGVldC93b3Jrc3BhY2UvcHl0aG9uL3Rvb2xjaGFpbhQALAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcALgEALGZsZWV0L3dvcmtzcGFjZS9weXRob24vUHl0aG9uV29ya3NwYWNlUGx1Z2luBwAwAQAGTW9kdWxlAQAcZmxlZXQvd29ya3NwYWNlL3B5dGhvbi9ydW52MhQAMwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAyAAAAggAGAAAAAAAPAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB6AAAAfACEAAAAAACMAAAAAACUAAAAAAAIAJwAAAAIAKQArAC0AAAABACUAAAAAAAEALwABADEANQAAAAgAAwAnADQALQ=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.python.workspace"
+            ]
+        }
+    }
+}

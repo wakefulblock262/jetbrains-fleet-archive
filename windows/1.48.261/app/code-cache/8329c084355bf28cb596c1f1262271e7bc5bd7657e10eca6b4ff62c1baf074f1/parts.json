@@ -1,0 +1,81 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egradle&version=1%2E48%2E261&module=fleet%2Eplugins%2Egradle%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "3312c5076935f66fe9ec2723e4568078e7113b37e6aa7d0db58487c0cfa56cab"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLmdyYWRsZS5jb21tb24TAAUBAAxmbGVldC5jb21tb24TAAcBAB1mbGVldC5wbHVnaW5zLmdyYWRsZS5wcm90b2NvbBMACQEAGWZsZWV0LnBsdWdpbnMuamF2YS5jb21tb24TAAsBABhmbGVldC5wbHVnaW5zLnJ1bi5jb21tb24TAA0BABpmbGVldC5wbHVnaW5zLnJ1bi5wcm90b2NvbBMADwEAD2ZsZWV0LnJoaXpvbWVkYhMAEQEACWphdmEuYmFzZRMAEwEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAFgEAE2ZsZWV0L2dyYWRsZS9jb21tb24UABgBABhmbGVldC9ncmFkbGUvY29tbW9uL3Rlc3QUABoBABFmbGVldC5tb2R1bGVzLmp2bRMAHAEAHmZsZWV0LnBsdWdpbnMuZ3JhZGxlLndvcmtzcGFjZRMAHgEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAIAEAJmZsZWV0L2dyYWRsZS9jb21tb24vR3JhZGxlQ29tbW9uUGx1Z2luBwAiAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACQAAABYAAYAAAAAAAgACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFIAAABUAFwAAAAAAAgAZAAAAAAAbAAAAAwAdAB8AEgAAAAAAAQAhAAEAIwAlAAAABgACABkAGw=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egradle&version=1%2E48%2E261&module=fleet%2Eplugins%2Egradle%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "52227256bcb3ddc1cade5f9d434af110aa952daa0f063ecfb0602bbb967f6f82"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AFgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLmdyYWRsZS5wcm90b2NvbBMABQEAHGZsZWV0LnBsdWdpbnMuZGVidWcucHJvdG9jb2wTAAcBABpmbGVldC5wbHVnaW5zLnJ1bi5wcm90b2NvbBMACQEADmZsZWV0LnByb3RvY29sEwALAQAPZmxlZXQudXRpbC5jb3JlEwANAQAJamF2YS5iYXNlEwAPAQAHMTcuMC4xNAEAFWZsZWV0L2dyYWRsZS9wcm90b2NvbBQAEgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAUAAAANAAGAAAAAAAFAAgAIAAAAAoAAAAAAAwAAAAAAA4AAAAAABCAAAARAAEAEwAAAAAAAAAAAAAAFQAAAAQAAQAT"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.gradle.common"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egradle&version=1%2E48%2E261&module=fleet%2Eplugins%2Egradle%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "a155af92de2740deb99c29710ec6f577746d2666e3efa95ea3066ebf62f88df2"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLmdyYWRsZS5mcm9udGVuZBMABQEADGZsZWV0LmNvbW1vbhMABwEAEWZsZWV0LmZyb250ZW5kLnVpEwAJAQAcZmxlZXQucGx1Z2lucy5kZWJ1Zy5mcm9udGVuZBMACwEAG2ZsZWV0LnBsdWdpbnMuZ3JhZGxlLmNvbW1vbhMADQEAHWZsZWV0LnBsdWdpbnMuZ3JhZGxlLnByb3RvY29sEwAPAQAZZmxlZXQucGx1Z2lucy5qYXZhLmNvbW1vbhMAEQEAGmZsZWV0LnBsdWdpbnMucnVuLmZyb250ZW5kEwATAQAgZmxlZXQucGx1Z2lucy5zbWFydE1vZGUuZnJvbnRlbmQTABUBAA9mbGVldC5yaGl6b21lZGITABcBAAlqYXZhLmJhc2UTABkBAAcxNy4wLjE0AQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABwBAAxmbGVldC9ncmFkbGUUAB4BABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HACABABlmbGVldC9ncmFkbGUvR3JhZGxlUGx1Z2luBwAiAQAGTW9kdWxlAQAQZmxlZXQvZ3JhZGxlL3J1bhQAJQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAkAAAAXgAGAAAAAAALAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABqAAAAbAB0AAAAAAAEAHwAAAAAAAAAAAAEAIQABACMAJwAAAAYAAgAfACY="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.gradle.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egradle&version=1%2E48%2E261&module=fleet%2Eplugins%2Egradle%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "cb4d95c3d18d88e6e6978b8156de0f6ea89ba6743eb46ac988cbd5b09925752a"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AMgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB5mbGVldC5wbHVnaW5zLmdyYWRsZS53b3Jrc3BhY2UTAAUBABpmbGVldC5wbHVnaW5zLmRlYnVnLmNvbW1vbhMABwEAG2ZsZWV0LnBsdWdpbnMuZ3JhZGxlLmNvbW1vbhMACQEAHWZsZWV0LnBsdWdpbnMuZ3JhZGxlLnByb3RvY29sEwALAQAgZmxlZXQucGx1Z2lucy5pbnRlbGxpai53b3Jrc3BhY2UTAA0BABlmbGVldC5wbHVnaW5zLmphdmEuY29tbW9uEwAPAQAcZmxlZXQucGx1Z2lucy5qYXZhLndvcmtzcGFjZRMAEQEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMAEwEAGmZsZWV0LnBsdWdpbnMucnVuLnByb3RvY29sEwAVAQAbZmxlZXQucGx1Z2lucy5ydW4ud29ya3NwYWNlEwAXAQAhZmxlZXQucGx1Z2lucy50b29sY2hhaW4ud29ya3NwYWNlEwAZAQAPZmxlZXQucmhpem9tZWRiEwAbAQAPZmxlZXQud29ya3NwYWNlEwAdAQAaaW8uZ2l0aHViLnhzdHJlYW0ubXhwYXJzZXITAB8BAAlqYXZhLmJhc2UTACEBAAcxNy4wLjE0AQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTACQBAAd4bWxwdWxsEwAmAQAHeHN0cmVhbRMAKAEAFmZsZWV0L2dyYWRsZS93b3Jrc3BhY2UUACoBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HACwBACxmbGVldC9ncmFkbGUvd29ya3NwYWNlL0dyYWRsZVdvcmtzcGFjZVBsdWdpbgcALgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAwAAAAggAGAAAAAAARAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB4AAAAAACAAAAAAACKAAAAjACUAAAAAACcAAAAAACkAAAAAAAEAKwAAAAAAAAAAAAEALQABAC8AMQAAAAQAAQAr"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egradle&version=1%2E48%2E261&module=mxparser%2D1%2E2%2E2%2Ejar",
+                        "hash": "f37e2d7e2e8757e61af19cc4cb240f0abc67430755fabebac60a88c08f412bc5"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABppby5naXRodWIueHN0cmVhbS5teHBhcnNlchMABQEABTEuMi4yAQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAaaW8vZ2l0aHViL3hzdHJlYW0vbXhwYXJzZXIUAAsBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAAA0AAAAEAAEADA=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egradle&version=1%2E48%2E261&module=xmlpull%2D1%2E1%2E3%2E1%2Ejar",
+                        "hash": "e1b3aef2e2ebc24a368d64e961c1dcc76c40b3108ccda14afcdd30bf6e6d45d0"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAd4bWxwdWxsEwAFAQAHMS4xLjMuMQEACWphdmEuYmFzZRMACAEABk1vZHVsZQEADm9yZy94bWxwdWxsL3YxFAALAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAANAAAABAABAAw="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egradle&version=1%2E48%2E261&module=xstream%2D1%2E4%2E20%2Ejar",
+                        "hash": "da27b3114c16d5746ddb000df832041f17c965abe2a7042c4d8cfa37bda9d44c"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AOgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAd4c3RyZWFtEwAFAQAGMS40LjIwAQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAYY29tL3Rob3VnaHR3b3Jrcy94c3RyZWFtFAALAQAkY29tL3Rob3VnaHR3b3Jrcy94c3RyZWFtL2Fubm90YXRpb25zFAANAQAjY29tL3Rob3VnaHR3b3Jrcy94c3RyZWFtL2NvbnZlcnRlcnMUAA8BACljb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vY29udmVydGVycy9iYXNpYxQAEQEAL2NvbS90aG91Z2h0d29ya3MveHN0cmVhbS9jb252ZXJ0ZXJzL2NvbGxlY3Rpb25zFAATAQApY29tL3Rob3VnaHR3b3Jrcy94c3RyZWFtL2NvbnZlcnRlcnMvZW51bXMUABUBACxjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vY29udmVydGVycy9leHRlbmRlZBQAFwEALGNvbS90aG91Z2h0d29ya3MveHN0cmVhbS9jb252ZXJ0ZXJzL2phdmFiZWFuFAAZAQAuY29tL3Rob3VnaHR3b3Jrcy94c3RyZWFtL2NvbnZlcnRlcnMvcmVmbGVjdGlvbhQAGwEAKGNvbS90aG91Z2h0d29ya3MveHN0cmVhbS9jb252ZXJ0ZXJzL3RpbWUUAB0BAB1jb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vY29yZRQAHwEAImNvbS90aG91Z2h0d29ya3MveHN0cmVhbS9jb3JlL3V0aWwUACEBABtjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vaW8UACMBACJjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vaW8vYmluYXJ5FAAlAQAgY29tL3Rob3VnaHR3b3Jrcy94c3RyZWFtL2lvL2NvcHkUACcBACBjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vaW8vanNvbhQAKQEAImNvbS90aG91Z2h0d29ya3MveHN0cmVhbS9pby9uYW1pbmcUACsBACBjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vaW8vcGF0aBQALQEAH2NvbS90aG91Z2h0d29ya3MveHN0cmVhbS9pby94bWwUAC8BACZjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vaW8veG1sL3hwcGRvbRQAMQEAH2NvbS90aG91Z2h0d29ya3MveHN0cmVhbS9tYXBwZXIUADMBACRjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vcGVyc2lzdGVuY2UUADUBACFjb20vdGhvdWdodHdvcmtzL3hzdHJlYW0vc2VjdXJpdHkUADcBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMACgAAABYABgAgAAcAAQAJgAAAAAAAAAAAAAAAADkAAAAwABcADAAOABAAEgAUABYAGAAaABwAHgAgACIAJAAmACgAKgAsAC4AMAAyADQANgA4"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.gradle.workspace"
+            ]
+        }
+    }
+}

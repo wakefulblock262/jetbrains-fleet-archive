@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<jpackage-state version="21.0.7" platform="windows">
+  <app-version>1.48.261</app-version>
+  <main-launcher>Fleet</main-launcher>
+  <main-class>fleet.dock.bootstrap.FleetBootstrap</main-class>
+  <signed>false</signed>
+  <app-store>false</app-store></jpackage-state>

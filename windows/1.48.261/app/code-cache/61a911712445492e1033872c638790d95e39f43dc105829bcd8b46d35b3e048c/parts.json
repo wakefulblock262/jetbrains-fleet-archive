@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EstickyLinesView&version=1%2E48%2E261&module=fleet%2Eplugins%2EstickyLinesView%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "5380557f72a5b24982f3ca17b1127aabb392469fb85b0ed1ca730b96cfffc26c"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACZmbGVldC5wbHVnaW5zLnN0aWNreUxpbmVzVmlldy5mcm9udGVuZBMABQEAEWZsZWV0LmZyb250ZW5kLnVpEwAHAQAfZmxlZXQucGx1Z2lucy5maWxldHJlZS5mcm9udGVuZBMACQEAG2ZsZWV0LnBsdWdpbnMubGFuZy5mcm9udGVuZBMACwEACWphdmEuYmFzZRMADQEABzE3LjAuMTQBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAEAEAEnV0aWwuYmFzZS5zcXVhc2hlZBMAEgEAHmZsZWV0L2Zyb250ZW5kL3N0aWNreUxpbmVzVmlldxQAFAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAFgEAMGZsZWV0L2Zyb250ZW5kL3N0aWNreUxpbmVzVmlldy9TdGlja3lMaW5lc1BsdWdpbgcAGAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAaAAAAQAAGAAAAAAAGAAgAAAAAAAoAAAAAAAwAAAAAAA6AAAAPABEAAAAAABMAAAAAAAEAFQAAAAAAAAAAAAEAFwABABkAGwAAAAQAAQAV"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.stickyLinesView.frontend"
+            ]
+        }
+    }
+}

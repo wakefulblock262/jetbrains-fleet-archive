@@ -1,0 +1,58 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egit%2Efrontend&version=1%2E48%2E261&module=fleet%2Eplugins%2Egit%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "2e88b13cdd82907a6bd941bf6eb65cf9f03947ab991121fd3516e9783e93d554"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABhmbGVldC5wbHVnaW5zLmdpdC5jb21tb24TAAUBAAxmbGVldC5jb21tb24TAAcBABVmbGVldC5kb2NrLmNvbm5lY3RvcnMTAAkBAA5mbGVldC5mYXN0dXRpbBMACwEAGmZsZWV0LnBsdWdpbnMuZ2l0LnByb3RvY29sEwANAQAXZmxlZXQucmVwb3J0aW5nLmZ1cy5hcGkTAA8BAApmdXMuc2NoZW1lEwARAQAJamF2YS5iYXNlEwATAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITABYBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAGAEAGW9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMTABoBABJ1dGlsLmJhc2Uuc3F1YXNoZWQTABwBABBmbGVldC9naXQvY29tbW9uFAAeAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACAAAABYAAYAAAAAAAsACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFIAAABUAFwAAAAAAGQAAAAAAGwAAAAAAHQAAAAAAAQAfAAAAAAAAAAAAAAAhAAAABAABAB8="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egit%2Efrontend&version=1%2E48%2E261&module=fleet%2Eplugins%2Egit%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "a83697f243e9406a88310e757eb7c14241fabee2aec15c565896472c0eeafe3c"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABpmbGVldC5wbHVnaW5zLmdpdC5wcm90b2NvbBMABQEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAHAQAOZmxlZXQucHJvdG9jb2wTAAkBAAlmbGVldC5ycGMTAAsBAA9mbGVldC51dGlsLmNvcmUTAA0BAAlqYXZhLmJhc2UTAA8BAAcxNy4wLjE0AQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTABIBABprb3RsaW54LnNlcmlhbGl6YXRpb24uY29yZRMAFAEAEmZsZWV0L2dpdC9wcm90b2NvbBQAFgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAYAAAAQAAGAAAAAAAHAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABCAAAARABMAAAAAABUAAAAAAAEAFwAAAAAAAAAAAAAAGQAAAAQAAQAX"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.git.common",
+                "fleet.plugins.git.protocol"
+            ]
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egit%2Efrontend&version=1%2E48%2E261&module=fleet%2Eplugins%2Egit%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "455df9720d26b63c3ce8a5a395adbb267bcd51104f18acf246fe0a7f556b153f"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ARAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABpmbGVldC5wbHVnaW5zLmdpdC5mcm9udGVuZBMABQEAFWZsZWV0LmRvY2suY29ubmVjdG9ycxMABwEADmZsZWV0LmZhc3R1dGlsEwAJAQAOZmxlZXQuZnJvbnRlbmQTAAsBABFmbGVldC5mcm9udGVuZC51aRMADQEAGWZsZWV0Lm11bHRpcGxhdGZvcm0uc2hpbXMTAA8BACVmbGVldC5wbHVnaW5zLmF1dGhlbnRpY2F0aW9uLmZyb250ZW5kEwARAQAbZmxlZXQucGx1Z2lucy5jb2RlLmZyb250ZW5kEwATAQAZZmxlZXQucGx1Z2lucy5kaWZmLmNvbW1vbhMAFQEAG2ZsZWV0LnBsdWdpbnMuZGlmZi5mcm9udGVuZBMAFwEAH2ZsZWV0LnBsdWdpbnMuZmlsZXRyZWUuZnJvbnRlbmQTABkBABhmbGVldC5wbHVnaW5zLmdpdC5jb21tb24TABsBABpmbGVldC5wbHVnaW5zLmdpdC5wcm90b2NvbBMAHQEAG2ZsZWV0LnBsdWdpbnMubWlzYy5mcm9udGVuZBMAHwEAGmZsZWV0LnBsdWdpbnMucnVuLmZyb250ZW5kEwAhAQAXZmxlZXQucmVwb3J0aW5nLmZ1cy5hcGkTACMBABNmbGVldC5zY2hlbWEuY29tbW9uEwAlAQAVZmxlZXQuc2NoZW1hLnByb3RvY29sEwAnAQAQZmxlZXQuc3VwZXJ2aXNvchMAKQEACmZ1cy5zY2hlbWUTACsBAAlqYXZhLmJhc2UTAC0BAAcxNy4wLjE0AQAXa290bGlueC5jb3JvdXRpbmVzLmNvcmUTADABABBrb3RsaW54LmRhdGV0aW1lEwAyAQAZb3JnLmpldGJyYWlucy5hbm5vdGF0aW9ucxMANAEACXNraWtvLmF3dBMANgEAEnV0aWwuYmFzZS5zcXVhc2hlZBMAOAEAEmZsZWV0L2dpdC9mcm9udGVuZBQAOgEAHWZsZWV0L2dpdC9mcm9udGVuZC9zdGF0aXN0aWNzFAA8AQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwA+AQAcZmxlZXQvZ2l0L2Zyb250ZW5kL0dpdFBsdWdpbgcAQAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwBCAAAAuAAGAAAAAAAZAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB4AAAAAACAAAAAAACIAAAAAACQAAAAAACYAAAAAACgAAAAAACoAAAAAACwAAAAAAC6AAAAvADEAAAAAADMAAAAAADUAAAAAADcAAAAAADkAAAAAAAIAOwAAAAAAPQAAAAAAAAAAAAEAPwABAEEAQwAAAAYAAgA7AD0="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.git.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egit%2Efrontend&version=1%2E48%2E261&module=fleet%2Eplugins%2Egit%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "f42e6adcc7fa2e0c8dbf1b3c4e8ef78ae048621f9cf3f36a9d984a3f5c34a3d0"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBABtmbGVldC5wbHVnaW5zLmdpdC53b3Jrc3BhY2UTAAUBAAxmbGVldC5jb21tb24TAAcBABVmbGVldC5kb2NrLmNvbm5lY3RvcnMTAAkBAA5mbGVldC5mYXN0dXRpbBMACwEAGWZsZWV0Lm11bHRpcGxhdGZvcm0uc2hpbXMTAA0BABhmbGVldC5wbHVnaW5zLmdpdC5jb21tb24TAA8BABpmbGVldC5wbHVnaW5zLmdpdC5wcm90b2NvbBMAEQEAD2ZsZWV0LndvcmtzcGFjZRMAEwEACmZ1cy5zY2hlbWUTABUBAAlqYXZhLmJhc2UTABcBAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAGgEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAcAQAZb3JnLmpldGJyYWlucy5hbm5vdGF0aW9ucxMAHgEAEnV0aWwuYmFzZS5zcXVhc2hlZBMAIAEAE2ZsZWV0L2dpdC93b3Jrc3BhY2UUACIBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HACQBACZmbGVldC9naXQvd29ya3NwYWNlL0dpdFdvcmtzcGFjZVBsdWdpbgcAJgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAoAAAAagAGAAAAAAANAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABiAAAAZABsAAAAAAB0AAAAAAB8AAAAAACEAAAAAAAEAIwAAAAAAAAAAAAEAJQABACcAKQAAAAQAAQAj"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.git.workspace"
+            ]
+        }
+    }
+}

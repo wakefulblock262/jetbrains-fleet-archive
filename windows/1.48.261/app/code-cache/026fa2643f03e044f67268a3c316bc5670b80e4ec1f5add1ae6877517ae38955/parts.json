@@ -1,0 +1,63 @@
+{
+    "layers": {
+        "common": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eteamcity&version=1%2E48%2E261&module=fleet%2Eplugins%2Eteamcity%2Ecommon%2D1%2E48%2E261%2Ejar",
+                        "hash": "c506fea80b28c732b12e02af18ef9866e76eb8bb52c06a7d1e35b2b7f39a4190"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLnRlYW1jaXR5LmNvbW1vbhMABQEADGZsZWV0LmNvbW1vbhMABwEAFGZsZWV0Lmtlcm5lbC5wbHVnaW5zEwAJAQAYZmxlZXQucGx1Z2lucy5ydW4uY29tbW9uEwALAQAaZmxlZXQucGx1Z2lucy5ydW4ucHJvdG9jb2wTAA0BAB9mbGVldC5wbHVnaW5zLnRlYW1jaXR5LnByb3RvY29sEwAPAQAPZmxlZXQucmhpem9tZWRiEwARAQAJamF2YS5iYXNlEwATAQAHMTcuMC4xNAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAWAQAdZmxlZXQvcGx1Z2lucy90ZWFtY2l0eS9jb21tb24UABgBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAGgAAAEYABgAAAAAACAAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQACAAAAASAAAAAAAUgAAAFQAXAAAAAAABABkAAAAAAAAAAAAAABsAAAAEAAEAGQ=="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eteamcity&version=1%2E48%2E261&module=fleet%2Eplugins%2Eteamcity%2Eprotocol%2D1%2E48%2E261%2Ejar",
+                        "hash": "dfdb3503928d84f3c210d9f0dd80e338554564e8543d6071c1cb28d0fe7ffb59"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB9mbGVldC5wbHVnaW5zLnRlYW1jaXR5LnByb3RvY29sEwAFAQAaZmxlZXQucGx1Z2lucy5ydW4ucHJvdG9jb2wTAAcBAAlmbGVldC5ycGMTAAkBAA9mbGVldC51dGlsLmNvcmUTAAsBAAlqYXZhLmJhc2UTAA0BAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAEAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwASAQAaa290bGlueC5zZXJpYWxpemF0aW9uLmNvcmUTABQBAB9mbGVldC9wbHVnaW5zL3RlYW1jaXR5L3Byb3RvY29sFAAWAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADABgAAABAAAYAAAAAAAcACAAAAAAACgAAAAAADAAAAAAADoAAAA8AEQAAAAAAEwAAAAAAFQAAAAAAAQAXAAAAAAAAAAAAAAAZAAAABAABABc="
+                }
+            ],
+            "modules": []
+        },
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eteamcity&version=1%2E48%2E261&module=fleet%2Eplugins%2Eteamcity%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "ba163e2ce9ed844356e1f0661b12087fd128021382f5f382d607504be8908aef"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AHgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB9mbGVldC5wbHVnaW5zLnRlYW1jaXR5LmZyb250ZW5kEwAFAQARZmxlZXQuZnJvbnRlbmQudWkTAAcBABRmbGVldC5rZXJuZWwucGx1Z2lucxMACQEAHWZsZWV0LnBsdWdpbnMudGVhbWNpdHkuY29tbW9uEwALAQAPZmxlZXQucmhpem9tZWRiEwANAQAJamF2YS5iYXNlEwAPAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITABIBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAFAEAH2ZsZWV0L3BsdWdpbnMvdGVhbWNpdHkvZnJvbnRlbmQUABYBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HABgBADZmbGVldC9wbHVnaW5zL3RlYW1jaXR5L2Zyb250ZW5kL1RlYW1jaXR5RnJvbnRlbmRQbHVnaW4HABoBAAZNb2R1bGUBAA5Nb2R1bGVQYWNrYWdlc4AAAAIAAAAAAAAAAAADAAQAAAACAAMAHAAAAEYABgAAAAAABwAIAAAAAAAKAAAAAAAMAAAAAAAOAAAAAAAQgAAAEQATAAAAAAAVAAAAAAABABcAAAAAAAAAAAABABkAAQAbAB0AAAAEAAEAFw=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.teamcity.frontend"
+            ]
+        },
+        "workspace": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eteamcity&version=1%2E48%2E261&module=fleet%2Eplugins%2Eteamcity%2Eworkspace%2D1%2E48%2E261%2Ejar",
+                        "hash": "bafdec4c64fb2534364fbd31d9e5fb29f0558ef66ef78122aa80f80b1bacc0eb"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ALAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACBmbGVldC5wbHVnaW5zLnRlYW1jaXR5LndvcmtzcGFjZRMABQEAGGZsZWV0LnBsdWdpbnMucnVuLmNvbW1vbhMABwEAGmZsZWV0LnBsdWdpbnMucnVuLnByb3RvY29sEwAJAQAbZmxlZXQucGx1Z2lucy5ydW4ud29ya3NwYWNlEwALAQAdZmxlZXQucGx1Z2lucy50ZWFtY2l0eS5jb21tb24TAA0BAA9mbGVldC53b3Jrc3BhY2UTAA8BAAlqYXZhLmJhc2UTABEBAAcxNy4wLjE0AQANa290bGluLnN0ZGxpYhMAFAEAF2tvdGxpbnguY29yb3V0aW5lcy5jb3JlEwAWAQAZb3JnLmpldGJyYWlucy5hbm5vdGF0aW9ucxMAGAEAD3NlcnZpY2VNZXNzYWdlcxMAGgEAIGZsZWV0L3BsdWdpbnMvdGVhbWNpdHkvd29ya3NwYWNlFAAcAQAnZmxlZXQvcGx1Z2lucy90ZWFtY2l0eS93b3Jrc3BhY2Uvb3V0cHV0FAAeAQAVZmxlZXQuYXBwLmZsZWV0LnRlc3RzEwAgAQARZmxlZXQubW9kdWxlcy5qdm0TACIBAA9mbGVldC5yaGl6b21lZGITACQBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HACYBADhmbGVldC9wbHVnaW5zL3RlYW1jaXR5L3dvcmtzcGFjZS9UZWFtY2l0eVdvcmtzcGFjZVBsdWdpbgcAKAEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAqAAAAZAAGAAAAAAAKAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABKAAAATABUAAAAAABcAAAAAABkAAAAAABsAAAAAAAIAHQAAAAAAHwAAAAMAIQAjACUAAAAAAAEAJwABACkAKwAAAAYAAgAdAB8="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Eteamcity&version=1%2E48%2E261&module=serviceMessages%2D2024%2E07%2Ejar",
+                        "hash": "17296085957b7bfd1306101a5630525788dae9d0b161dfa06c5d316815dce04b"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ADgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA9zZXJ2aWNlTWVzc2FnZXMTAAUBAAcyMDI0LjA3AQAJamF2YS5iYXNlEwAIAQAGTW9kdWxlAQAuamV0YnJhaW5zL2J1aWxkU2VydmVyL21lc3NhZ2VzL3NlcnZpY2VNZXNzYWdlcxQACwEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAKAAAAFgAGACAABwABAAmAAAAAAAAAAAAAAAAADQAAAAQAAQAM"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.teamcity.workspace"
+            ]
+        }
+    }
+}

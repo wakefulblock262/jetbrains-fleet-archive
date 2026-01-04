@@ -1,0 +1,35 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egroovy&version=1%2E48%2E261&module=fleet%2Eplugins%2Egroovy%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "bcf56eee1eafbd6981f9b350dff8d8cd8ad300cfb0b723b2efa1616e8c6c125e"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AKAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLmdyb292eS5mcm9udGVuZBMABQEADmZsZWV0LmFzdC5jb3JlEwAHAQASZmxlZXQuZWRpdG9yY29uZmlnEwAJAQARZmxlZXQuZnJvbnRlbmQudWkTAAsBABtmbGVldC5wbHVnaW5zLmNvZGUuZnJvbnRlbmQTAA0BACVmbGVldC5wbHVnaW5zLmludGVsbGlqLnBhcnNpbmcuY29tbW9uEwAPAQAnZmxlZXQucGx1Z2lucy5pbnRlbGxpai5wYXJzaW5nLmZyb250ZW5kEwARAQAYZmxlZXQucGx1Z2lucy5ydW4uY29tbW9uEwATAQAaZmxlZXQucGx1Z2lucy5ydW4uZnJvbnRlbmQTABUBAB9mbGVldC5wbHVnaW5zLnNldHRpbmdzLmZyb250ZW5kEwAXAQANZ3Jvb3Z5LnBhcnNlchMAGQEAD2lqLnBhcnNpbmcuY29yZRMAGwEACWphdmEuYmFzZRMAHQEABzE3LjAuMTQBABVmbGVldC9sYW5ndWFnZS9ncm9vdnkUACABABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HACIBACJmbGVldC9sYW5ndWFnZS9ncm9vdnkvR3Jvb3Z5UGx1Z2luBwAkAQAGTW9kdWxlAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADACYAAABkAAYAAAAAAAwACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGAAAAAAAGgAAAAAAHAAAAAAAHoAAAB8AAQAhAAAAAAAAAAAAAQAjAAEAJQAnAAAABAABACE="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egroovy&version=1%2E48%2E261&module=groovy%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "6978a61884b144dc43b9d5907ff2fef43c72ef0e54456b9ef6b54456614c61b0"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AIAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA1ncm9vdnkucGFyc2VyEwAFAQAHMC4zLjE4MgEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAImZsZWV0L29yZy9qZXRicmFpbnMvcGx1Z2lucy9ncm9vdnkUAAsBADdmbGVldC9vcmcvamV0YnJhaW5zL3BsdWdpbnMvZ3Jvb3Z5L2xhbmcvZ3Jvb3Z5ZG9jL2xleGVyFAANAQA4ZmxlZXQvb3JnL2pldGJyYWlucy9wbHVnaW5zL2dyb292eS9sYW5nL2dyb292eWRvYy9wYXJzZXIUAA8BAEFmbGVldC9vcmcvamV0YnJhaW5zL3BsdWdpbnMvZ3Jvb3Z5L2xhbmcvZ3Jvb3Z5ZG9jL3BhcnNlci9lbGVtZW50cxQAEQEAQGZsZWV0L29yZy9qZXRicmFpbnMvcGx1Z2lucy9ncm9vdnkvbGFuZy9ncm9vdnlkb2MvcGFyc2VyL3BhcnNpbmcUABMBAC1mbGVldC9vcmcvamV0YnJhaW5zL3BsdWdpbnMvZ3Jvb3Z5L2xhbmcvbGV4ZXIUABUBAC5mbGVldC9vcmcvamV0YnJhaW5zL3BsdWdpbnMvZ3Jvb3Z5L2xhbmcvcGFyc2VyFAAXAQA7ZmxlZXQvb3JnL2pldGJyYWlucy9wbHVnaW5zL2dyb292eS9sYW5nL3BhcnNlci9wYXJzaW5nL3V0aWwUABkBACtmbGVldC9vcmcvamV0YnJhaW5zL3BsdWdpbnMvZ3Jvb3Z5L2xhbmcvcHNpFAAbAQAnZmxlZXQvb3JnL2pldGJyYWlucy9wbHVnaW5zL2dyb292eS91dGlsFAAdAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAfAAAAFgAKAAwADgAQABIAFAAWABgAGgAcAB4="
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Egroovy&version=1%2E48%2E261&module=java%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "a00d888a0ea3352141e6e52df16816376aaabd5f42f2eb9c9c45042cef801a4d"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AJgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAAtqYXZhLnBhcnNlchMABQEABzAuMy4xODIBAAlqYXZhLmJhc2UTAAgBAAZNb2R1bGUBACxmbGVldC9jb20vaW50ZWxsaWovY29kZUluc2lnaHQvZWRpdG9yQWN0aW9ucxQACwEAHGZsZWV0L2NvbS9pbnRlbGxpai9jb3JlL2phdmEUAA0BABxmbGVldC9jb20vaW50ZWxsaWovbGFuZy9qYXZhFAAPAQAiZmxlZXQvY29tL2ludGVsbGlqL2xhbmcvamF2YS9sZXhlchQAEQEAI2ZsZWV0L2NvbS9pbnRlbGxpai9sYW5nL2phdmEvcGFyc2VyFAATAQAbZmxlZXQvY29tL2ludGVsbGlqL2xhbmcvanZtFAAVAQAdZmxlZXQvY29tL2ludGVsbGlqL2xleGVyL2phdmEUABcBABtmbGVldC9jb20vaW50ZWxsaWovcG9tL2phdmEUABkBACJmbGVldC9jb20vaW50ZWxsaWovcHNpL2ltcGwvc291cmNlFAAbAQAbZmxlZXQvY29tL2ludGVsbGlqL3BzaS9qYXZhFAAdAQAsZmxlZXQvY29tL2ludGVsbGlqL3BzaS9qYXZhL2ltcGwvc291cmNlL3RyZWUUAB8BACBmbGVldC9jb20vaW50ZWxsaWovcHNpL3RyZWUvamF2YRQAIQEAIGZsZWV0L2NvbS9pbnRlbGxpai9wc2kvdXRpbC9qYXZhFAAjAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAlAAAAHAANAAwADgAQABIAFAAWABgAGgAcAB4AIAAiACQ="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.groovy.frontend"
+            ]
+        }
+    }
+}

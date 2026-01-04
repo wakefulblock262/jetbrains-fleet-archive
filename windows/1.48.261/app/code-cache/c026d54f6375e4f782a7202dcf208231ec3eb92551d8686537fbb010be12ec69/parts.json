@@ -1,0 +1,27 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Esvelte&version=1%2E48%2E261&module=fleet%2Eplugins%2Esvelte%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "0a4fdbe3a46ed984f25b6f37d8d56aada6493be307da85b59d87e759e5b6ebae"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0ALgEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB1mbGVldC5wbHVnaW5zLnN2ZWx0ZS5mcm9udGVuZBMABQEAFWZsZWV0LmJvcmluZ0Zvcm1hdHRlchMABwEADmZsZWV0LmZyb250ZW5kEwAJAQAOZmxlZXQubm9yaWEudWkTAAsBABtmbGVldC5wbHVnaW5zLmNvZGUuZnJvbnRlbmQTAA0BABpmbGVldC5wbHVnaW5zLmNzcy5mcm9udGVuZBMADwEAJWZsZWV0LnBsdWdpbnMuaW50ZWxsaWoucGFyc2luZy5jb21tb24TABEBACdmbGVldC5wbHVnaW5zLmludGVsbGlqLnBhcnNpbmcuZnJvbnRlbmQTABMBACFmbGVldC5wbHVnaW5zLmphdmFzY3JpcHQuZnJvbnRlbmQTABUBABtmbGVldC5wbHVnaW5zLmxhbmcuZnJvbnRlbmQTABcBABpmbGVldC5wbHVnaW5zLnhtbC5mcm9udGVuZBMAGQEAD2lqLnBhcnNpbmcuY29yZRMAGwEACWphdmEuYmFzZRMAHQEABzE3LjAuMTQBABFqYXZhc2NyaXB0LnBhcnNlchMAIAEADXN2ZWx0ZS5wYXJzZXITACIBAAp4bWwucGFyc2VyEwAkAQAVZmxlZXQvc3ZlbHRlL2Zyb250ZW5kFAAmAQAbZmxlZXQva2VybmVsL3BsdWdpbnMvUGx1Z2luBwAoAQAiZmxlZXQvc3ZlbHRlL2Zyb250ZW5kL1N2ZWx0ZVBsdWdpbgcAKgEABk1vZHVsZQEADk1vZHVsZVBhY2thZ2VzgAAAAgAAAAAAAAAAAAMABAAAAAIAAwAsAAAAdgAGAAAAAAAPAAgAAAAAAAoAAAAAAAwAAAAAAA4AAAAAABAAAAAAABIAAAAAABQAAAAAABYAAAAAABgAAAAAABoAAAAAABwAAAAAAB6AAAAfACEAAAAAACMAAAAAACUAAAAAAAEAJwAAAAAAAAAAAAEAKQABACsALQAAAAQAAQAn"
+                },
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Esvelte&version=1%2E48%2E261&module=svelte%2Dparser%2D0%2E3%2E182%2Ejar",
+                        "hash": "de1ec2c4763591fffaf4e32da2711e9f41179e6aeb4948fea8ae90a07b5536f1"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AGAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAA1zdmVsdGUucGFyc2VyEwAFAQAHMC4zLjE4MgEACWphdmEuYmFzZRMACAEABk1vZHVsZQEAF2Rldi9ibGFjaHV0L3N2ZWx0ZS9sYW5nFAALAQAiZGV2L2JsYWNodXQvc3ZlbHRlL2xhbmcvZGlyZWN0aXZlcxQADQEAJGRldi9ibGFjaHV0L3N2ZWx0ZS9sYW5nL3BhcnNpbmcvaHRtbBQADwEAImRldi9ibGFjaHV0L3N2ZWx0ZS9sYW5nL3BhcnNpbmcvanMUABEBACJkZXYvYmxhY2h1dC9zdmVsdGUvbGFuZy9wYXJzaW5nL3RzFAATAQAbZGV2L2JsYWNodXQvc3ZlbHRlL2xhbmcvcHNpFAAVAQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADAAoAAAAWAAYAIAAHAAEACYAAAAAAAAAAAAAAAAAXAAAADgAGAAwADgAQABIAFAAW"
+                }
+            ],
+            "modules": [
+                "fleet.plugins.svelte.frontend"
+            ]
+        }
+    }
+}

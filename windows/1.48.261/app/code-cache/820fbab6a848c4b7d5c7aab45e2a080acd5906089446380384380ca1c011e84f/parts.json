@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2EwebApp&version=1%2E48%2E261&module=fleet%2Eplugins%2Eai%2EwebApp%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "fc9e23298c98997e0d93cc230bec1f75987b8b4ec2254876ae75f1d6e798ec73"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0APAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBACBmbGVldC5wbHVnaW5zLmFpLndlYkFwcC5mcm9udGVuZBMABQEAGGNvZGUuZmVhdHVyZXMuY29tbW9uLmp2bRMABwEADmZsZWV0LmZyb250ZW5kEwAJAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAAsBABlmbGVldC5wbHVnaW5zLmFpLmZyb250ZW5kEwANAQAlZmxlZXQucGx1Z2lucy5hdXRoZW50aWNhdGlvbi5mcm9udGVuZBMADwEAG2ZsZWV0LnBsdWdpbnMuY29kZS5mcm9udGVuZBMAEQEAF2ZsZWV0LnBsdWdpbnMuamNlZi5kb2NrEwATAQAbZmxlZXQucGx1Z2lucy5qY2VmLmZyb250ZW5kEwAVAQAbZmxlZXQucGx1Z2lucy5sYW5nLmZyb250ZW5kEwAXAQAfZmxlZXQucGx1Z2lucy50ZXh0bWF0ZS5mcm9udGVuZBMAGQEAD2ZsZWV0LnJoaXpvbWVkYhMAGwEAFmZsZWV0LnV0aWwubG9nZ2luZy5hcGkTAB0BAAxpby5rdG9yLmh0dHATAB8BAAppby5rdG9yLmlvEwAhAQAJamF2YS5iYXNlEwAjAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITACYBABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAKAEAEGtvdGxpbnguZGF0ZXRpbWUTACoBAAxtYXJrZG93bi5qdm0TACwBABhmbGVldC9haS93ZWJBcHAvZnJvbnRlbmQUAC4BABFmbGVldC5tb2R1bGVzLmp2bRMAMAEAG2ZsZWV0L2tlcm5lbC9wbHVnaW5zL1BsdWdpbgcAMgEALmZsZWV0L2FpL3dlYkFwcC9mcm9udGVuZC9BaVdlYkFwcFByZXZpZXdQbHVnaW4HADQBAAZNb2R1bGUBAB9mbGVldC9haS93ZWJBcHAvZnJvbnRlbmQvcmVuZGVyFAA3AQAeZmxlZXQvYWkvd2ViQXBwL2Zyb250ZW5kL3Rvb2xzFAA5AQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADADYAAACSAAYAAAAAABMACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGAAAAAAAGgAAAAAAHAAAAAAAHgAAAAAAIAAAAAAAIgAAAAAAJIAAACUAJwAAAAAAKQAAAAAAKwAAAAAALQAAAAAAAQAvAAAAAgAxABwAAAAAAAEAMwABADUAOwAAAAgAAwAvADgAOg=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.ai.webApp.frontend"
+            ]
+        }
+    }
+}

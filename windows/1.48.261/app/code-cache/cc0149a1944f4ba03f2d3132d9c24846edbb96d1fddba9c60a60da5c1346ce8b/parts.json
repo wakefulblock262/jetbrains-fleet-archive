@@ -1,0 +1,19 @@
+{
+    "layers": {
+        "frontend": {
+            "modulePath": [
+                {
+                    "coordinates": {
+                        "type": "Remote",
+                        "url": "https://plugins.jetbrains.com/api/fleet/download?xmlId=fleet%2Emarkdown&version=1%2E48%2E261&module=fleet%2Eplugins%2Emarkdown%2Efrontend%2D1%2E48%2E261%2Ejar",
+                        "hash": "0125859fa9faf05d20274cdfa6d9bdd421daec3736dec8d6a1ebe0a987a02cca"
+                    },
+                    "serializedModuleDescriptor": "yv66vgAAAD0AQAEAC21vZHVsZS1pbmZvBwABAQAQbW9kdWxlLWluZm8uamF2YQEAClNvdXJjZUZpbGUBAB9mbGVldC5wbHVnaW5zLm1hcmtkb3duLmZyb250ZW5kEwAFAQAOZmxlZXQuYXN0LmNvcmUTAAcBAAxmbGVldC5jb21tb24TAAkBAA5mbGVldC5mcm9udGVuZBMACwEAEWZsZWV0LmZyb250ZW5kLnVpEwANAQAUZmxlZXQua2VybmVsLnBsdWdpbnMTAA8BAA5mbGVldC5ub3JpYS51aRMAEQEAG2ZsZWV0LnBsdWdpbnMuY29kZS5mcm9udGVuZBMAEwEAG2ZsZWV0LnBsdWdpbnMuamNlZi5mcm9udGVuZBMAFQEAG2ZsZWV0LnBsdWdpbnMubGFuZy5mcm9udGVuZBMAFwEAEWZsZWV0LnByZWZlcmVuY2VzEwAZAQAPZmxlZXQucmhpem9tZWRiEwAbAQAJamF2YS5iYXNlEwAdAQAHMTcuMC4xNAEADWtvdGxpbi5zdGRsaWITACABABdrb3RsaW54LmNvcm91dGluZXMuY29yZRMAIgEAGmtvdGxpbnguc2VyaWFsaXphdGlvbi5jb3JlEwAkAQAMbWFya2Rvd24uanZtEwAmAQAfZmxlZXQvcGx1Z2lucy9tYXJrZG93bi9mcm9udGVuZBQAKAEAJ2ZsZWV0L3BsdWdpbnMvbWFya2Rvd24vZnJvbnRlbmQvYWN0aW9ucxQAKgEAG2ZsZWV0LnBsdWdpbnMubWFya2Rvd24udGVzdBMALAEAKGZsZWV0L3BsdWdpbnMvbWFya2Rvd24vZnJvbnRlbmQvbGFuZ3VhZ2UUAC4BADZmbGVldC9wbHVnaW5zL21hcmtkb3duL2Zyb250ZW5kL2xhbmd1YWdlL3R5cGluZ0Fzc2lzdHMUADABAC1mbGVldC9wbHVnaW5zL21hcmtkb3duL2Zyb250ZW5kL2xhbmd1YWdlL3V0aWwUADIBACdmbGVldC9wbHVnaW5zL21hcmtkb3duL2Zyb250ZW5kL3ByZXZpZXcUADQBABtmbGVldC9rZXJuZWwvcGx1Z2lucy9QbHVnaW4HADYBAC5mbGVldC9wbHVnaW5zL21hcmtkb3duL2Zyb250ZW5kL01hcmtkb3duUGx1Z2luBwA4AQAGTW9kdWxlAQAwZmxlZXQvcGx1Z2lucy9tYXJrZG93bi9mcm9udGVuZC9sYW5ndWFnZS9mbGF2b3VyFAA7AQAJc2Nyb2xsYmFyFAA9AQAOTW9kdWxlUGFja2FnZXOAAAACAAAAAAAAAAAAAwAEAAAAAgADADoAAACgAAYAAAAAABAACAAAAAAACgAAAAAADAAAAAAADgAAAAAAEAAAAAAAEgAAAAAAFAAAAAAAFgAAAAAAGAAAAAAAGgAAAAAAHAAAAAAAHoAAAB8AIQAAAAAAIwAAAAAAJQAAAAAAJwAAAAAABgApAAAAAAArAAAAAQAtAC8AAAAAADEAAAABAC0AMwAAAAEALQA1AAAAAAAAAAAAAQA3AAEAOQA/AAAAEgAIACkAKwAvADwAMQAzADUAPg=="
+                }
+            ],
+            "modules": [
+                "fleet.plugins.markdown.frontend"
+            ]
+        }
+    }
+}
