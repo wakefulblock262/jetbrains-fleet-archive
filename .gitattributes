@@ -5,4 +5,9 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.jar filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
+windows/**/*.modules filter=lfs diff=lfs merge=lfs -text
+windows/**/*.bin filter=lfs diff=lfs merge=lfs -text
+windows/**/*.zip filter=lfs diff=lfs merge=lfs -text
+windows/**/*.jar filter=lfs diff=lfs merge=lfs -text
+*.modules filter=lfs diff=lfs merge=lfs -text
 windows/1.48.261/runtime/lib/modules filter=lfs diff=lfs merge=lfs -text
